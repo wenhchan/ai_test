@@ -1,0 +1,6752 @@
+[
+  {
+    "text": "hello everyone and welcome to the money",
+    "start": 7.839,
+    "duration": 5.361
+  },
+  {
+    "text": "movement i'm joined today by anatoly",
+    "start": 9.92,
+    "duration": 6.56
+  },
+  {
+    "text": "yakovenko co-founder of solana labs",
+    "start": 13.2,
+    "duration": 6.88
+  },
+  {
+    "text": "and uh someone who i have just immense",
+    "start": 16.48,
+    "duration": 6.559
+  },
+  {
+    "text": "respect for and um you know really happy",
+    "start": 20.08,
+    "duration": 5.359
+  },
+  {
+    "text": "to have you here and uh lots we can talk",
+    "start": 23.039,
+    "duration": 3.601
+  },
+  {
+    "text": "about",
+    "start": 25.439,
+    "duration": 2.881
+  },
+  {
+    "text": "awesome to be here yeah thank you for",
+    "start": 26.64,
+    "duration": 4.0
+  },
+  {
+    "text": "having me yeah absolutely",
+    "start": 28.32,
+    "duration": 4.64
+  },
+  {
+    "text": "um so it's been a you know it's been a",
+    "start": 30.64,
+    "duration": 6.0
+  },
+  {
+    "text": "big year for solana um it's been a you",
+    "start": 32.96,
+    "duration": 6.32
+  },
+  {
+    "text": "know big year all around for a lot of",
+    "start": 36.64,
+    "duration": 6.079
+  },
+  {
+    "text": "people um but um you know i i think it'd",
+    "start": 39.28,
+    "duration": 5.759
+  },
+  {
+    "text": "be maybe just helpful to start just you",
+    "start": 42.719,
+    "duration": 3.441
+  },
+  {
+    "text": "know",
+    "start": 45.039,
+    "duration": 4.321
+  },
+  {
+    "text": "state of solana you know what",
+    "start": 46.16,
+    "duration": 4.559
+  },
+  {
+    "text": "what are the kind of critical metrics",
+    "start": 49.36,
+    "duration": 2.719
+  },
+  {
+    "text": "that you're looking at when you think",
+    "start": 50.719,
+    "duration": 2.16
+  },
+  {
+    "text": "about",
+    "start": 52.079,
+    "duration": 2.48
+  },
+  {
+    "text": "kpis",
+    "start": 52.879,
+    "duration": 3.921
+  },
+  {
+    "text": "what's important and and where you guys",
+    "start": 54.559,
+    "duration": 5.041
+  },
+  {
+    "text": "are at today yeah some of the",
+    "start": 56.8,
+    "duration": 5.04
+  },
+  {
+    "text": "so some of the most important things are",
+    "start": 59.6,
+    "duration": 4.879
+  },
+  {
+    "text": "like you real users humans using the",
+    "start": 61.84,
+    "duration": 3.679
+  },
+  {
+    "text": "network",
+    "start": 64.479,
+    "duration": 4.241
+  },
+  {
+    "text": "um and we see that uh like with phantom",
+    "start": 65.519,
+    "duration": 6.161
+  },
+  {
+    "text": "and on-chain activity it's to about two",
+    "start": 68.72,
+    "duration": 5.52
+  },
+  {
+    "text": "million monthly active users and",
+    "start": 71.68,
+    "duration": 4.32
+  },
+  {
+    "text": "we're seeing the daily active user",
+    "start": 74.24,
+    "duration": 4.64
+  },
+  {
+    "text": "counts sometimes break what polygon and",
+    "start": 76.0,
+    "duration": 6.0
+  },
+  {
+    "text": "ethereum are saying like 300 000 or so",
+    "start": 78.88,
+    "duration": 6.72
+  },
+  {
+    "text": "daily active users designers as we call",
+    "start": 82.0,
+    "duration": 5.759
+  },
+  {
+    "text": "them respective signers yeah active",
+    "start": 85.6,
+    "duration": 4.479
+  },
+  {
+    "text": "signers and that that to me is a really",
+    "start": 87.759,
+    "duration": 4.641
+  },
+  {
+    "text": "kind of important metric because it's",
+    "start": 90.079,
+    "duration": 4.4
+  },
+  {
+    "text": "signals that there's more real human",
+    "start": 92.4,
+    "duration": 4.56
+  },
+  {
+    "text": "activity more people doing something on",
+    "start": 94.479,
+    "duration": 4.801
+  },
+  {
+    "text": "this chain that that's valuable to them",
+    "start": 96.96,
+    "duration": 4.4
+  },
+  {
+    "text": "that's really exciting",
+    "start": 99.28,
+    "duration": 4.24
+  },
+  {
+    "text": "some of those some of the things we saw",
+    "start": 101.36,
+    "duration": 3.84
+  },
+  {
+    "text": "like over the last year",
+    "start": 103.52,
+    "duration": 3.599
+  },
+  {
+    "text": "and this didn't even take the whole year",
+    "start": 105.2,
+    "duration": 4.559
+  },
+  {
+    "text": "like things like metaplex which launched",
+    "start": 107.119,
+    "duration": 4.0
+  },
+  {
+    "text": "may last year",
+    "start": 109.759,
+    "duration": 2.241
+  },
+  {
+    "text": "there's",
+    "start": 111.119,
+    "duration": 2.161
+  },
+  {
+    "text": "over a million",
+    "start": 112.0,
+    "duration": 3.92
+  },
+  {
+    "text": "users with nfts in their wallets now uh",
+    "start": 113.28,
+    "duration": 5.119
+  },
+  {
+    "text": "i think close to eight or eight million",
+    "start": 115.92,
+    "duration": 4.0
+  },
+  {
+    "text": "nfts minted",
+    "start": 118.399,
+    "duration": 4.481
+  },
+  {
+    "text": "um i think it's minting at like",
+    "start": 119.92,
+    "duration": 4.879
+  },
+  {
+    "text": "i don't know i forget but like a",
+    "start": 122.88,
+    "duration": 4.32
+  },
+  {
+    "text": "multiple of what the number of mints on",
+    "start": 124.799,
+    "duration": 4.721
+  },
+  {
+    "text": "ethereum in terms of like actual nfts",
+    "start": 127.2,
+    "duration": 4.56
+  },
+  {
+    "text": "launching so that has been the most",
+    "start": 129.52,
+    "duration": 4.56
+  },
+  {
+    "text": "surprising use case",
+    "start": 131.76,
+    "duration": 3.36
+  },
+  {
+    "text": "to me",
+    "start": 134.08,
+    "duration": 3.04
+  },
+  {
+    "text": "of all the things",
+    "start": 135.12,
+    "duration": 5.199
+  },
+  {
+    "text": "yeah yeah no i i i think um",
+    "start": 137.12,
+    "duration": 6.8
+  },
+  {
+    "text": "yeah no jpegs are hot um",
+    "start": 140.319,
+    "duration": 5.441
+  },
+  {
+    "text": "but you know in all seriousness i mean",
+    "start": 143.92,
+    "duration": 4.0
+  },
+  {
+    "text": "it i mean obviously like scalability",
+    "start": 145.76,
+    "duration": 4.16
+  },
+  {
+    "text": "this is where you know the strengths of",
+    "start": 147.92,
+    "duration": 3.2
+  },
+  {
+    "text": "solana",
+    "start": 149.92,
+    "duration": 3.12
+  },
+  {
+    "text": "are are really showing right high",
+    "start": 151.12,
+    "duration": 3.92
+  },
+  {
+    "text": "performance user experience",
+    "start": 153.04,
+    "duration": 4.479
+  },
+  {
+    "text": "unit economics that work",
+    "start": 155.04,
+    "duration": 4.8
+  },
+  {
+    "text": "um and so you know app developers and",
+    "start": 157.519,
+    "duration": 5.201
+  },
+  {
+    "text": "creators are attracted to that obviously",
+    "start": 159.84,
+    "duration": 5.119
+  },
+  {
+    "text": "and part of the you know one of the most",
+    "start": 162.72,
+    "duration": 4.08
+  },
+  {
+    "text": "important kind of i would say lagging",
+    "start": 164.959,
+    "duration": 4.64
+  },
+  {
+    "text": "kpis is the number of stable coins",
+    "start": 166.8,
+    "duration": 4.0
+  },
+  {
+    "text": "issued like",
+    "start": 169.599,
+    "duration": 3.681
+  },
+  {
+    "text": "usdc and that's been really important to",
+    "start": 170.8,
+    "duration": 3.84
+  },
+  {
+    "text": "see because",
+    "start": 173.28,
+    "duration": 3.36
+  },
+  {
+    "text": "that that to me also tells me that these",
+    "start": 174.64,
+    "duration": 3.2
+  },
+  {
+    "text": "users",
+    "start": 176.64,
+    "duration": 4.239
+  },
+  {
+    "text": "have demand for hard currency which is a",
+    "start": 177.84,
+    "duration": 4.479
+  },
+  {
+    "text": "somebody has to put those dollars in a",
+    "start": 180.879,
+    "duration": 3.121
+  },
+  {
+    "text": "bank right and that that's a very hard",
+    "start": 182.319,
+    "duration": 3.121
+  },
+  {
+    "text": "thing to do",
+    "start": 184.0,
+    "duration": 4.0
+  },
+  {
+    "text": "at scale um and that's i think",
+    "start": 185.44,
+    "duration": 5.2
+  },
+  {
+    "text": "uh like over 4 billion already and",
+    "start": 188.0,
+    "duration": 4.239
+  },
+  {
+    "text": "that's pretty exciting",
+    "start": 190.64,
+    "duration": 4.48
+  },
+  {
+    "text": "yeah absolutely i mean obviously",
+    "start": 192.239,
+    "duration": 5.121
+  },
+  {
+    "text": "we we've been collaborating now for for",
+    "start": 195.12,
+    "duration": 3.92
+  },
+  {
+    "text": "i don't know a year and a half or",
+    "start": 197.36,
+    "duration": 4.48
+  },
+  {
+    "text": "whatever it has been um but",
+    "start": 199.04,
+    "duration": 4.64
+  },
+  {
+    "text": "i think um",
+    "start": 201.84,
+    "duration": 4.08
+  },
+  {
+    "text": "i mean we we continue to see more and",
+    "start": 203.68,
+    "duration": 4.16
+  },
+  {
+    "text": "more projects that are that are being",
+    "start": 205.92,
+    "duration": 4.0
+  },
+  {
+    "text": "built that are building on usdc on",
+    "start": 207.84,
+    "duration": 4.24
+  },
+  {
+    "text": "solana and people are are really",
+    "start": 209.92,
+    "duration": 3.36
+  },
+  {
+    "text": "starting to",
+    "start": 212.08,
+    "duration": 2.4
+  },
+  {
+    "text": "think about",
+    "start": 213.28,
+    "duration": 2.8
+  },
+  {
+    "text": "this as as",
+    "start": 214.48,
+    "duration": 3.759
+  },
+  {
+    "text": "you know lighting up um you know",
+    "start": 216.08,
+    "duration": 3.76
+  },
+  {
+    "text": "mainstream applications mainstream",
+    "start": 218.239,
+    "duration": 3.201
+  },
+  {
+    "text": "payments um",
+    "start": 219.84,
+    "duration": 4.319
+  },
+  {
+    "text": "and i know we can talk about solana pay",
+    "start": 221.44,
+    "duration": 4.799
+  },
+  {
+    "text": "and we can talk about that that that use",
+    "start": 224.159,
+    "duration": 5.201
+  },
+  {
+    "text": "case specifically um but it it seems",
+    "start": 226.239,
+    "duration": 4.56
+  },
+  {
+    "text": "like um",
+    "start": 229.36,
+    "duration": 3.04
+  },
+  {
+    "text": "when people talk about",
+    "start": 230.799,
+    "duration": 2.401
+  },
+  {
+    "text": "you know",
+    "start": 232.4,
+    "duration": 2.399
+  },
+  {
+    "text": "how are we going to actually",
+    "start": 233.2,
+    "duration": 4.0
+  },
+  {
+    "text": "fulfill this promise of like",
+    "start": 234.799,
+    "duration": 3.761
+  },
+  {
+    "text": "digital cash",
+    "start": 237.2,
+    "duration": 2.88
+  },
+  {
+    "text": "and digital cash payments that are",
+    "start": 238.56,
+    "duration": 3.28
+  },
+  {
+    "text": "usable on the internet",
+    "start": 240.08,
+    "duration": 3.68
+  },
+  {
+    "text": "it feels like today",
+    "start": 241.84,
+    "duration": 4.56
+  },
+  {
+    "text": "uh you know usdc on salon is a really",
+    "start": 243.76,
+    "duration": 3.52
+  },
+  {
+    "text": "great",
+    "start": 246.4,
+    "duration": 2.96
+  },
+  {
+    "text": "you know example of that and sort of how",
+    "start": 247.28,
+    "duration": 3.84
+  },
+  {
+    "text": "do you solve the user experience problem",
+    "start": 249.36,
+    "duration": 3.36
+  },
+  {
+    "text": "above and beyond just the transaction",
+    "start": 251.12,
+    "duration": 4.88
+  },
+  {
+    "text": "settlement yeah for sure and a lot of",
+    "start": 252.72,
+    "duration": 5.44
+  },
+  {
+    "text": "that has to do with what",
+    "start": 256.0,
+    "duration": 4.0
+  },
+  {
+    "text": "what users want and i think",
+    "start": 258.16,
+    "duration": 4.0
+  },
+  {
+    "text": "fundamentally a lot of users want the",
+    "start": 260.0,
+    "duration": 3.44
+  },
+  {
+    "text": "safest",
+    "start": 262.16,
+    "duration": 3.12
+  },
+  {
+    "text": "for for payments specifically they want",
+    "start": 263.44,
+    "duration": 4.16
+  },
+  {
+    "text": "the safest possible dollar right like",
+    "start": 265.28,
+    "duration": 4.32
+  },
+  {
+    "text": "they want",
+    "start": 267.6,
+    "duration": 3.599
+  },
+  {
+    "text": "and there's a lot that goes into that",
+    "start": 269.6,
+    "duration": 3.92
+  },
+  {
+    "text": "word safe and like how do you use yeah",
+    "start": 271.199,
+    "duration": 4.081
+  },
+  {
+    "text": "because there's platform risk more",
+    "start": 273.52,
+    "duration": 4.399
+  },
+  {
+    "text": "contract risk wallet custody risk but",
+    "start": 275.28,
+    "duration": 5.28
+  },
+  {
+    "text": "also you know on your side the risk of",
+    "start": 277.919,
+    "duration": 4.881
+  },
+  {
+    "text": "those assets and things like that yeah",
+    "start": 280.56,
+    "duration": 4.24
+  },
+  {
+    "text": "yeah well we're trying to do our part to",
+    "start": 282.8,
+    "duration": 4.24
+  },
+  {
+    "text": "uh establish you know trust and and",
+    "start": 284.8,
+    "duration": 3.839
+  },
+  {
+    "text": "credibility and",
+    "start": 287.04,
+    "duration": 4.24
+  },
+  {
+    "text": "um and and and give the market really",
+    "start": 288.639,
+    "duration": 5.12
+  },
+  {
+    "text": "robust infrastructure for for for",
+    "start": 291.28,
+    "duration": 6.479
+  },
+  {
+    "text": "getting access to that um yeah for sure",
+    "start": 293.759,
+    "duration": 7.521
+  },
+  {
+    "text": "i i i'm interested um",
+    "start": 297.759,
+    "duration": 4.401
+  },
+  {
+    "text": "you know",
+    "start": 301.28,
+    "duration": 3.759
+  },
+  {
+    "text": "you you see a lot of different",
+    "start": 302.16,
+    "duration": 4.4
+  },
+  {
+    "text": "things that are happening",
+    "start": 305.039,
+    "duration": 2.72
+  },
+  {
+    "text": "in",
+    "start": 306.56,
+    "duration": 3.04
+  },
+  {
+    "text": "the developer community right i think so",
+    "start": 307.759,
+    "duration": 4.961
+  },
+  {
+    "text": "much of of your success has been just",
+    "start": 309.6,
+    "duration": 4.4
+  },
+  {
+    "text": "like being active in developer",
+    "start": 312.72,
+    "duration": 2.88
+  },
+  {
+    "text": "communities supporting them running",
+    "start": 314.0,
+    "duration": 3.919
+  },
+  {
+    "text": "hackathons bringing people together",
+    "start": 315.6,
+    "duration": 3.68
+  },
+  {
+    "text": "um",
+    "start": 317.919,
+    "duration": 2.881
+  },
+  {
+    "text": "and actually maybe it's a good it's a",
+    "start": 319.28,
+    "duration": 2.8
+  },
+  {
+    "text": "good kpi",
+    "start": 320.8,
+    "duration": 3.04
+  },
+  {
+    "text": "for you to talk about which is like you",
+    "start": 322.08,
+    "duration": 3.679
+  },
+  {
+    "text": "know when you when you you know start i",
+    "start": 323.84,
+    "duration": 4.24
+  },
+  {
+    "text": "remember your earliest hackathons",
+    "start": 325.759,
+    "duration": 4.561
+  },
+  {
+    "text": "and and and you know kind of where where",
+    "start": 328.08,
+    "duration": 5.28
+  },
+  {
+    "text": "that was there were 100 teams",
+    "start": 330.32,
+    "duration": 4.64
+  },
+  {
+    "text": "to finish something",
+    "start": 333.36,
+    "duration": 3.76
+  },
+  {
+    "text": "yeah",
+    "start": 334.96,
+    "duration": 2.16
+  },
+  {
+    "text": "i know but like where you guys have what",
+    "start": 337.199,
+    "duration": 4.56
+  },
+  {
+    "text": "is it that's just just launching now",
+    "start": 339.84,
+    "duration": 4.799
+  },
+  {
+    "text": "it's called riptide",
+    "start": 341.759,
+    "duration": 5.28
+  },
+  {
+    "text": "yeah um we we saw",
+    "start": 344.639,
+    "duration": 4.801
+  },
+  {
+    "text": "like to what i can only call like true",
+    "start": 347.039,
+    "duration": 4.241
+  },
+  {
+    "text": "exponential growth and developer",
+    "start": 349.44,
+    "duration": 4.0
+  },
+  {
+    "text": "activity from that first hackathon where",
+    "start": 351.28,
+    "duration": 4.56
+  },
+  {
+    "text": "there were 100 teams about 14 of them",
+    "start": 353.44,
+    "duration": 3.92
+  },
+  {
+    "text": "had something used like they built",
+    "start": 355.84,
+    "duration": 3.84
+  },
+  {
+    "text": "something i remember then",
+    "start": 357.36,
+    "duration": 4.0
+  },
+  {
+    "text": "yeah",
+    "start": 359.68,
+    "duration": 3.84
+  },
+  {
+    "text": "it just started kind of doubling",
+    "start": 361.36,
+    "duration": 4.32
+  },
+  {
+    "text": "basically every hackathon the one right",
+    "start": 363.52,
+    "duration": 4.64
+  },
+  {
+    "text": "before this one",
+    "start": 365.68,
+    "duration": 3.359
+  },
+  {
+    "text": "was",
+    "start": 368.16,
+    "duration": 3.759
+  },
+  {
+    "text": "had more teams finish a project than all",
+    "start": 369.039,
+    "duration": 5.361
+  },
+  {
+    "text": "the other hackathons combined",
+    "start": 371.919,
+    "duration": 4.56
+  },
+  {
+    "text": "and that that to me was really really",
+    "start": 374.4,
+    "duration": 5.12
+  },
+  {
+    "text": "cool that was close to the 370 teams",
+    "start": 376.479,
+    "duration": 5.361
+  },
+  {
+    "text": "riptide we're you know or like can we",
+    "start": 379.52,
+    "duration": 3.84
+  },
+  {
+    "text": "break a thousand can we get a thousand",
+    "start": 381.84,
+    "duration": 2.96
+  },
+  {
+    "text": "teams to build",
+    "start": 383.36,
+    "duration": 3.52
+  },
+  {
+    "text": "something and like compete for the",
+    "start": 384.8,
+    "duration": 3.76
+  },
+  {
+    "text": "prizes and get funding and things like",
+    "start": 386.88,
+    "duration": 4.159
+  },
+  {
+    "text": "that and a lot of that means that we",
+    "start": 388.56,
+    "duration": 5.04
+  },
+  {
+    "text": "have to now look outside of like",
+    "start": 391.039,
+    "duration": 4.561
+  },
+  {
+    "text": "we have to you know initially it was",
+    "start": 393.6,
+    "duration": 3.52
+  },
+  {
+    "text": "almost a little easier because you can",
+    "start": 395.6,
+    "duration": 3.599
+  },
+  {
+    "text": "kind of see what ethereum was doing and",
+    "start": 397.12,
+    "duration": 5.12
+  },
+  {
+    "text": "then okay we need d5 we need nfts or",
+    "start": 399.199,
+    "duration": 5.12
+  },
+  {
+    "text": "other stuff and just build reference",
+    "start": 402.24,
+    "duration": 3.84
+  },
+  {
+    "text": "implementations there but now we've",
+    "start": 404.319,
+    "duration": 4.561
+  },
+  {
+    "text": "matured to a point where i think solana",
+    "start": 406.08,
+    "duration": 4.959
+  },
+  {
+    "text": "is leading on some of the innovation so",
+    "start": 408.88,
+    "duration": 3.84
+  },
+  {
+    "text": "salona pay is one of those things we",
+    "start": 411.039,
+    "duration": 3.521
+  },
+  {
+    "text": "haven't seen a breakout",
+    "start": 412.72,
+    "duration": 5.12
+  },
+  {
+    "text": "payments application in crypto yeah",
+    "start": 414.56,
+    "duration": 5.68
+  },
+  {
+    "text": "and why why isn't there like a",
+    "start": 417.84,
+    "duration": 4.4
+  },
+  {
+    "text": "true venmo competitor and crypto yeah",
+    "start": 420.24,
+    "duration": 2.959
+  },
+  {
+    "text": "everyone",
+    "start": 422.24,
+    "duration": 2.399
+  },
+  {
+    "text": "there should be at least one right",
+    "start": 423.199,
+    "duration": 4.081
+  },
+  {
+    "text": "that's trying",
+    "start": 424.639,
+    "duration": 2.641
+  },
+  {
+    "text": "i mean that was that was the first",
+    "start": 427.44,
+    "duration": 4.24
+  },
+  {
+    "text": "product we ever built was was circle pay",
+    "start": 429.039,
+    "duration": 4.641
+  },
+  {
+    "text": "and and that was like trying to we were",
+    "start": 431.68,
+    "duration": 4.079
+  },
+  {
+    "text": "we were doing like",
+    "start": 433.68,
+    "duration": 4.639
+  },
+  {
+    "text": "dollars over bitcoin and that had some",
+    "start": 435.759,
+    "duration": 5.521
+  },
+  {
+    "text": "scalability problems",
+    "start": 438.319,
+    "duration": 5.121
+  },
+  {
+    "text": "but but but now i mean now now it's just",
+    "start": 441.28,
+    "duration": 3.919
+  },
+  {
+    "text": "it's wide open and we certainly see a",
+    "start": 443.44,
+    "duration": 3.36
+  },
+  {
+    "text": "lot of startups that are",
+    "start": 445.199,
+    "duration": 3.28
+  },
+  {
+    "text": "trying to use our apis",
+    "start": 446.8,
+    "duration": 4.32
+  },
+  {
+    "text": "to then in turn build wallet products",
+    "start": 448.479,
+    "duration": 5.28
+  },
+  {
+    "text": "but um do you feel like like at riptide",
+    "start": 451.12,
+    "duration": 3.68
+  },
+  {
+    "text": "are you gonna do you feel like you're",
+    "start": 453.759,
+    "duration": 3.041
+  },
+  {
+    "text": "gonna see a lot of payments related um",
+    "start": 454.8,
+    "duration": 4.0
+  },
+  {
+    "text": "projects that are that are being kind of",
+    "start": 456.8,
+    "duration": 4.88
+  },
+  {
+    "text": "built yeah we saw right when solano pay",
+    "start": 458.8,
+    "duration": 5.2
+  },
+  {
+    "text": "was announced so solana pays a very very",
+    "start": 461.68,
+    "duration": 4.56
+  },
+  {
+    "text": "simple thing it's it's it's literally",
+    "start": 464.0,
+    "duration": 5.599
+  },
+  {
+    "text": "just bip 21 like if you know what bit 21",
+    "start": 466.24,
+    "duration": 5.2
+  },
+  {
+    "text": "is for bitcoin yeah",
+    "start": 469.599,
+    "duration": 3.921
+  },
+  {
+    "text": "back in the day",
+    "start": 471.44,
+    "duration": 3.52
+  },
+  {
+    "text": "for those for the folks that don't know",
+    "start": 473.52,
+    "duration": 3.84
+  },
+  {
+    "text": "what that is it's a very simple url",
+    "start": 474.96,
+    "duration": 4.88
+  },
+  {
+    "text": "specification of how to request a",
+    "start": 477.36,
+    "duration": 4.0
+  },
+  {
+    "text": "payment from a wallet",
+    "start": 479.84,
+    "duration": 3.759
+  },
+  {
+    "text": "so it's a way for a merchant to generate",
+    "start": 481.36,
+    "duration": 5.2
+  },
+  {
+    "text": "a qr code which is a url link that thing",
+    "start": 483.599,
+    "duration": 5.681
+  },
+  {
+    "text": "links tells the wallet hey i want to pay",
+    "start": 486.56,
+    "duration": 5.039
+  },
+  {
+    "text": "this particular merchant for this item",
+    "start": 489.28,
+    "duration": 4.4
+  },
+  {
+    "text": "with this amount of dollars right and it",
+    "start": 491.599,
+    "duration": 4.16
+  },
+  {
+    "text": "autofills that in the ui and that that",
+    "start": 493.68,
+    "duration": 4.799
+  },
+  {
+    "text": "integration makes it easy for",
+    "start": 495.759,
+    "duration": 4.801
+  },
+  {
+    "text": "merchants to request you for stuff right",
+    "start": 498.479,
+    "duration": 4.641
+  },
+  {
+    "text": "now that's a yeah it's not rocket",
+    "start": 500.56,
+    "duration": 4.0
+  },
+  {
+    "text": "science right anybody could have built",
+    "start": 503.12,
+    "duration": 5.359
+  },
+  {
+    "text": "this but um we found that like when",
+    "start": 504.56,
+    "duration": 6.0
+  },
+  {
+    "text": "there's sometimes an opportunity for us",
+    "start": 508.479,
+    "duration": 2.961
+  },
+  {
+    "text": "to",
+    "start": 510.56,
+    "duration": 3.44
+  },
+  {
+    "text": "build a standard like like metaplex was",
+    "start": 511.44,
+    "duration": 4.959
+  },
+  {
+    "text": "incubated a solana and it again very",
+    "start": 514.0,
+    "duration": 5.12
+  },
+  {
+    "text": "simple thing this is the standard nft",
+    "start": 516.399,
+    "duration": 4.88
+  },
+  {
+    "text": "and that spurs a ton of development and",
+    "start": 519.12,
+    "duration": 4.719
+  },
+  {
+    "text": "innovation and grows way beyond what we",
+    "start": 521.279,
+    "duration": 4.721
+  },
+  {
+    "text": "initially saw and",
+    "start": 523.839,
+    "duration": 3.761
+  },
+  {
+    "text": "that already kind of happened",
+    "start": 526.0,
+    "duration": 3.12
+  },
+  {
+    "text": "surprisingly like as soon as it was",
+    "start": 527.6,
+    "duration": 3.52
+  },
+  {
+    "text": "announced we saw people hack up square",
+    "start": 529.12,
+    "duration": 3.719
+  },
+  {
+    "text": "point of sale yeah",
+    "start": 531.12,
+    "duration": 4.88
+  },
+  {
+    "text": "units to accept solana pay and uh and",
+    "start": 532.839,
+    "duration": 4.601
+  },
+  {
+    "text": "stuff like that",
+    "start": 536.0,
+    "duration": 3.04
+  },
+  {
+    "text": "um i think",
+    "start": 537.44,
+    "duration": 3.68
+  },
+  {
+    "text": "hundreds of merchants reached out like",
+    "start": 539.04,
+    "duration": 4.08
+  },
+  {
+    "text": "almost immediately there's a lot of",
+    "start": 541.12,
+    "duration": 3.68
+  },
+  {
+    "text": "demand for",
+    "start": 543.12,
+    "duration": 5.279
+  },
+  {
+    "text": "alternative payment rails because of how",
+    "start": 544.8,
+    "duration": 5.52
+  },
+  {
+    "text": "like i think i think the way that",
+    "start": 548.399,
+    "duration": 4.081
+  },
+  {
+    "text": "payment systems are set up right now is",
+    "start": 550.32,
+    "duration": 4.959
+  },
+  {
+    "text": "that they're very much",
+    "start": 552.48,
+    "duration": 4.32
+  },
+  {
+    "text": "set up with the",
+    "start": 555.279,
+    "duration": 3.68
+  },
+  {
+    "text": "putting merchants at a disadvantage in",
+    "start": 556.8,
+    "duration": 5.039
+  },
+  {
+    "text": "the entire kind of rate in in the entire",
+    "start": 558.959,
+    "duration": 4.401
+  },
+  {
+    "text": "process of getting paid",
+    "start": 561.839,
+    "duration": 3.521
+  },
+  {
+    "text": "yeah um",
+    "start": 563.36,
+    "duration": 4.72
+  },
+  {
+    "text": "well you know it's it's like um",
+    "start": 565.36,
+    "duration": 4.32
+  },
+  {
+    "text": "the the there's a lot we could talk",
+    "start": 568.08,
+    "duration": 3.36
+  },
+  {
+    "text": "about on that topic but like it's kind",
+    "start": 569.68,
+    "duration": 2.8
+  },
+  {
+    "text": "of like",
+    "start": 571.44,
+    "duration": 2.48
+  },
+  {
+    "text": "in the earlier generations of the",
+    "start": 572.48,
+    "duration": 2.4
+  },
+  {
+    "text": "internet",
+    "start": 573.92,
+    "duration": 3.52
+  },
+  {
+    "text": "like if you if you were a content",
+    "start": 574.88,
+    "duration": 4.56
+  },
+  {
+    "text": "creator you couldn't have a direct",
+    "start": 577.44,
+    "duration": 3.76
+  },
+  {
+    "text": "relationship to people you had to go",
+    "start": 579.44,
+    "duration": 2.959
+  },
+  {
+    "text": "through you have to get published in a",
+    "start": 581.2,
+    "duration": 3.12
+  },
+  {
+    "text": "magazine or you have to get published",
+    "start": 582.399,
+    "duration": 3.521
+  },
+  {
+    "text": "you got to go through a book publisher",
+    "start": 584.32,
+    "duration": 4.4
+  },
+  {
+    "text": "who had distribution at barnes noble or",
+    "start": 585.92,
+    "duration": 5.84
+  },
+  {
+    "text": "record labels or tv networks or cable",
+    "start": 588.72,
+    "duration": 4.48
+  },
+  {
+    "text": "distribution whatever all this",
+    "start": 591.76,
+    "duration": 2.8
+  },
+  {
+    "text": "distribution",
+    "start": 593.2,
+    "duration": 3.68
+  },
+  {
+    "text": "was the thing and and so you know",
+    "start": 594.56,
+    "duration": 4.959
+  },
+  {
+    "text": "the internet basically said actually no",
+    "start": 596.88,
+    "duration": 3.92
+  },
+  {
+    "text": "you could have a direct relationship and",
+    "start": 599.519,
+    "duration": 2.801
+  },
+  {
+    "text": "that was even the case with businesses",
+    "start": 600.8,
+    "duration": 4.56
+  },
+  {
+    "text": "too right if you created a product",
+    "start": 602.32,
+    "duration": 4.639
+  },
+  {
+    "text": "you had to find distribution through",
+    "start": 605.36,
+    "duration": 4.0
+  },
+  {
+    "text": "retail but then you could actually just",
+    "start": 606.959,
+    "duration": 3.921
+  },
+  {
+    "text": "build a website and have direct",
+    "start": 609.36,
+    "duration": 2.8
+  },
+  {
+    "text": "distribution or you could use a",
+    "start": 610.88,
+    "duration": 3.04
+  },
+  {
+    "text": "marketplace and have like global",
+    "start": 612.16,
+    "duration": 2.96
+  },
+  {
+    "text": "distribution",
+    "start": 613.92,
+    "duration": 2.72
+  },
+  {
+    "text": "and and these these kinds of things",
+    "start": 615.12,
+    "duration": 3.279
+  },
+  {
+    "text": "emerge in all these areas and in some",
+    "start": 616.64,
+    "duration": 3.52
+  },
+  {
+    "text": "ways payments",
+    "start": 618.399,
+    "duration": 2.721
+  },
+  {
+    "text": "is",
+    "start": 620.16,
+    "duration": 2.96
+  },
+  {
+    "text": "the same thing right",
+    "start": 621.12,
+    "duration": 3.279
+  },
+  {
+    "text": "like it",
+    "start": 623.12,
+    "duration": 3.04
+  },
+  {
+    "text": "it seems like a business can directly",
+    "start": 624.399,
+    "duration": 4.0
+  },
+  {
+    "text": "take a payment but they're not they're",
+    "start": 626.16,
+    "duration": 4.72
+  },
+  {
+    "text": "like if i walk into a store and give a",
+    "start": 628.399,
+    "duration": 4.801
+  },
+  {
+    "text": "20 bill that is in fact a direct payment",
+    "start": 630.88,
+    "duration": 4.32
+  },
+  {
+    "text": "like there's no intermediary it's just",
+    "start": 633.2,
+    "duration": 3.84
+  },
+  {
+    "text": "there and it's final settlement i know i",
+    "start": 635.2,
+    "duration": 4.48
+  },
+  {
+    "text": "have it right but if you want to take a",
+    "start": 637.04,
+    "duration": 4.799
+  },
+  {
+    "text": "payment you've got like seven",
+    "start": 639.68,
+    "duration": 4.08
+  },
+  {
+    "text": "intermediaries between you and the",
+    "start": 641.839,
+    "duration": 4.081
+  },
+  {
+    "text": "actual money and and you've got all",
+    "start": 643.76,
+    "duration": 3.92
+  },
+  {
+    "text": "these other layers of incentive systems",
+    "start": 645.92,
+    "duration": 5.039
+  },
+  {
+    "text": "and and complexity and and so in some",
+    "start": 647.68,
+    "duration": 5.12
+  },
+  {
+    "text": "ways even though to someone who might",
+    "start": 650.959,
+    "duration": 2.641
+  },
+  {
+    "text": "take",
+    "start": 652.8,
+    "duration": 4.24
+  },
+  {
+    "text": "their phantom wallet and scan a qr code",
+    "start": 653.6,
+    "duration": 6.0
+  },
+  {
+    "text": "and confirm a transaction to the pay the",
+    "start": 657.04,
+    "duration": 4.0
+  },
+  {
+    "text": "person paying",
+    "start": 659.6,
+    "duration": 3.6
+  },
+  {
+    "text": "okay that feels like my apple pay or",
+    "start": 661.04,
+    "duration": 4.4
+  },
+  {
+    "text": "whatever and so to them it's like",
+    "start": 663.2,
+    "duration": 5.759
+  },
+  {
+    "text": "okay i'm doing this but to the merchant",
+    "start": 665.44,
+    "duration": 6.32
+  },
+  {
+    "text": "it's as good as cash yeah and and and",
+    "start": 668.959,
+    "duration": 5.761
+  },
+  {
+    "text": "that's powerful right that's really",
+    "start": 671.76,
+    "duration": 4.48
+  },
+  {
+    "text": "really powerful",
+    "start": 674.72,
+    "duration": 3.84
+  },
+  {
+    "text": "and that's that's kind of exactly the",
+    "start": 676.24,
+    "duration": 4.0
+  },
+  {
+    "text": "the feedback that we've been hearing is",
+    "start": 678.56,
+    "duration": 4.719
+  },
+  {
+    "text": "is like people really really want that",
+    "start": 680.24,
+    "duration": 5.36
+  },
+  {
+    "text": "that power like on the merchant side and",
+    "start": 683.279,
+    "duration": 3.761
+  },
+  {
+    "text": "yeah um",
+    "start": 685.6,
+    "duration": 3.679
+  },
+  {
+    "text": "that was to me surprising you know i",
+    "start": 687.04,
+    "duration": 4.32
+  },
+  {
+    "text": "didn't i didn't kind of put the two",
+    "start": 689.279,
+    "duration": 3.68
+  },
+  {
+    "text": "together because i'm not a",
+    "start": 691.36,
+    "duration": 3.52
+  },
+  {
+    "text": "i'm not deep in the payments world but",
+    "start": 692.959,
+    "duration": 3.681
+  },
+  {
+    "text": "it makes so much sense like this is",
+    "start": 694.88,
+    "duration": 4.079
+  },
+  {
+    "text": "really where the intermediaries were who",
+    "start": 696.64,
+    "duration": 4.4
+  },
+  {
+    "text": "they really hurt right now in the entire",
+    "start": 698.959,
+    "duration": 4.481
+  },
+  {
+    "text": "financial system is the seller right the",
+    "start": 701.04,
+    "duration": 3.84
+  },
+  {
+    "text": "people that are trying to to sell you",
+    "start": 703.44,
+    "duration": 3.12
+  },
+  {
+    "text": "this product",
+    "start": 704.88,
+    "duration": 2.8
+  },
+  {
+    "text": "yeah and",
+    "start": 706.56,
+    "duration": 3.44
+  },
+  {
+    "text": "and the users are not aware of this",
+    "start": 707.68,
+    "duration": 4.24
+  },
+  {
+    "text": "right it's kind of hidden from them and",
+    "start": 710.0,
+    "duration": 4.32
+  },
+  {
+    "text": "that results in higher prices and for",
+    "start": 711.92,
+    "duration": 4.8
+  },
+  {
+    "text": "everybody and kind of it's just uh",
+    "start": 714.32,
+    "duration": 3.84
+  },
+  {
+    "text": "right",
+    "start": 716.72,
+    "duration": 3.04
+  },
+  {
+    "text": "yeah there's going to be so much",
+    "start": 718.16,
+    "duration": 4.32
+  },
+  {
+    "text": "motivation for businesses um to to do",
+    "start": 719.76,
+    "duration": 4.96
+  },
+  {
+    "text": "this i i guess it you know kind of maybe",
+    "start": 722.48,
+    "duration": 3.68
+  },
+  {
+    "text": "tying it back to",
+    "start": 724.72,
+    "duration": 2.72
+  },
+  {
+    "text": "one of the other questions about you",
+    "start": 726.16,
+    "duration": 2.64
+  },
+  {
+    "text": "know what's going on at riptide and your",
+    "start": 727.44,
+    "duration": 2.72
+  },
+  {
+    "text": "hackathon and what are you seeing out",
+    "start": 728.8,
+    "duration": 3.92
+  },
+  {
+    "text": "there and payments is um",
+    "start": 730.16,
+    "duration": 4.88
+  },
+  {
+    "text": "you know what do you think are the",
+    "start": 732.72,
+    "duration": 3.2
+  },
+  {
+    "text": "you know",
+    "start": 735.04,
+    "duration": 2.479
+  },
+  {
+    "text": "if you're sitting here talking to",
+    "start": 735.92,
+    "duration": 3.44
+  },
+  {
+    "text": "developers and and others who are",
+    "start": 737.519,
+    "duration": 3.601
+  },
+  {
+    "text": "listening you know what do you think the",
+    "start": 739.36,
+    "duration": 3.84
+  },
+  {
+    "text": "problems are to solve if you're building",
+    "start": 741.12,
+    "duration": 4.159
+  },
+  {
+    "text": "a solana",
+    "start": 743.2,
+    "duration": 4.56
+  },
+  {
+    "text": "compatible wallet or payment experience",
+    "start": 745.279,
+    "duration": 4.481
+  },
+  {
+    "text": "or like what are the problems that",
+    "start": 747.76,
+    "duration": 4.0
+  },
+  {
+    "text": "developers should be focusing on solving",
+    "start": 749.76,
+    "duration": 3.199
+  },
+  {
+    "text": "i have a few ideas but i'm very",
+    "start": 751.76,
+    "duration": 2.96
+  },
+  {
+    "text": "interested in yours",
+    "start": 752.959,
+    "duration": 4.32
+  },
+  {
+    "text": "i think um",
+    "start": 754.72,
+    "duration": 5.52
+  },
+  {
+    "text": "the ux making it kind of simple enough",
+    "start": 757.279,
+    "duration": 6.0
+  },
+  {
+    "text": "for casual users to use which means that",
+    "start": 760.24,
+    "duration": 4.719
+  },
+  {
+    "text": "you have to be careful about security",
+    "start": 763.279,
+    "duration": 3.041
+  },
+  {
+    "text": "and and",
+    "start": 764.959,
+    "duration": 2.641
+  },
+  {
+    "text": "telling users that they probably",
+    "start": 766.32,
+    "duration": 3.04
+  },
+  {
+    "text": "shouldn't store tens of thousands of",
+    "start": 767.6,
+    "duration": 4.4
+  },
+  {
+    "text": "dollars in this wallet right like if if",
+    "start": 769.36,
+    "duration": 4.56
+  },
+  {
+    "text": "you're the simpler you make the security",
+    "start": 772.0,
+    "duration": 3.6
+  },
+  {
+    "text": "assumptions the",
+    "start": 773.92,
+    "duration": 4.32
+  },
+  {
+    "text": "the more you you kind of have to start",
+    "start": 775.6,
+    "duration": 4.799
+  },
+  {
+    "text": "communicating to users about the limits",
+    "start": 778.24,
+    "duration": 4.56
+  },
+  {
+    "text": "of what you should trust this particular",
+    "start": 780.399,
+    "duration": 4.721
+  },
+  {
+    "text": "security model to and that's a very",
+    "start": 782.8,
+    "duration": 4.96
+  },
+  {
+    "text": "that's a very tough challenge um",
+    "start": 785.12,
+    "duration": 3.76
+  },
+  {
+    "text": "i think",
+    "start": 787.76,
+    "duration": 3.68
+  },
+  {
+    "text": "ux wise um",
+    "start": 788.88,
+    "duration": 4.639
+  },
+  {
+    "text": "there needs to be a reason for a",
+    "start": 791.44,
+    "duration": 4.16
+  },
+  {
+    "text": "consumer to use this over venmo and",
+    "start": 793.519,
+    "duration": 3.921
+  },
+  {
+    "text": "that's a very hard",
+    "start": 795.6,
+    "duration": 5.12
+  },
+  {
+    "text": "kind of like um you know venmo has about",
+    "start": 797.44,
+    "duration": 5.68
+  },
+  {
+    "text": "right everyone kind of has it",
+    "start": 800.72,
+    "duration": 4.96
+  },
+  {
+    "text": "and um it's very hard to break into so",
+    "start": 803.12,
+    "duration": 4.24
+  },
+  {
+    "text": "you got to find your niche right and",
+    "start": 805.68,
+    "duration": 3.279
+  },
+  {
+    "text": "there are niches where",
+    "start": 807.36,
+    "duration": 3.36
+  },
+  {
+    "text": "there are users that are not served by",
+    "start": 808.959,
+    "duration": 3.68
+  },
+  {
+    "text": "venmo at all um",
+    "start": 810.72,
+    "duration": 4.0
+  },
+  {
+    "text": "you know surprisingly cash",
+    "start": 812.639,
+    "duration": 4.241
+  },
+  {
+    "text": "uh like the score cash app has uh is",
+    "start": 814.72,
+    "duration": 4.239
+  },
+  {
+    "text": "pretty popular and in a ton of places",
+    "start": 816.88,
+    "duration": 4.399
+  },
+  {
+    "text": "where memo isn't yeah",
+    "start": 818.959,
+    "duration": 4.24
+  },
+  {
+    "text": "finding those niches and like i think",
+    "start": 821.279,
+    "duration": 4.721
+  },
+  {
+    "text": "the monthly active users on cash app is",
+    "start": 823.199,
+    "duration": 4.481
+  },
+  {
+    "text": "higher than venmo",
+    "start": 826.0,
+    "duration": 3.519
+  },
+  {
+    "text": "actually",
+    "start": 827.68,
+    "duration": 4.56
+  },
+  {
+    "text": "yeah but i i didn't know that but that's",
+    "start": 829.519,
+    "duration": 5.76
+  },
+  {
+    "text": "that's surprising to me",
+    "start": 832.24,
+    "duration": 3.039
+  },
+  {
+    "text": "um i think the advantage maybe that's a",
+    "start": 835.68,
+    "duration": 3.76
+  },
+  {
+    "text": "that's a like west coast thing or",
+    "start": 838.0,
+    "duration": 3.36
+  },
+  {
+    "text": "something yeah yeah maybe um the",
+    "start": 839.44,
+    "duration": 4.16
+  },
+  {
+    "text": "advantages i think are",
+    "start": 841.36,
+    "duration": 3.039
+  },
+  {
+    "text": "like",
+    "start": 843.6,
+    "duration": 2.88
+  },
+  {
+    "text": "where can you start using this",
+    "start": 844.399,
+    "duration": 3.841
+  },
+  {
+    "text": "application where you can do stuff that",
+    "start": 846.48,
+    "duration": 4.4
+  },
+  {
+    "text": "memo can't and that could be",
+    "start": 848.24,
+    "duration": 4.959
+  },
+  {
+    "text": "yield products that could be",
+    "start": 850.88,
+    "duration": 4.48
+  },
+  {
+    "text": "like you know here's a rewards point",
+    "start": 853.199,
+    "duration": 3.521
+  },
+  {
+    "text": "builder for",
+    "start": 855.36,
+    "duration": 2.08
+  },
+  {
+    "text": "your",
+    "start": 856.72,
+    "duration": 2.96
+  },
+  {
+    "text": "simple like go click next and now you",
+    "start": 857.44,
+    "duration": 4.16
+  },
+  {
+    "text": "have rewards points like for everybody",
+    "start": 859.68,
+    "duration": 2.719
+  },
+  {
+    "text": "right",
+    "start": 861.6,
+    "duration": 1.84
+  },
+  {
+    "text": "yeah",
+    "start": 862.399,
+    "duration": 2.961
+  },
+  {
+    "text": "it seems like that yeah i totally agree",
+    "start": 863.44,
+    "duration": 3.68
+  },
+  {
+    "text": "and it seems like you know this is also",
+    "start": 865.36,
+    "duration": 3.52
+  },
+  {
+    "text": "one of the objections that",
+    "start": 867.12,
+    "duration": 4.24
+  },
+  {
+    "text": "i've heard in the past around",
+    "start": 868.88,
+    "duration": 4.72
+  },
+  {
+    "text": "okay if you solve the problem of making",
+    "start": 871.36,
+    "duration": 4.96
+  },
+  {
+    "text": "it like a fast you know a fast cheap",
+    "start": 873.6,
+    "duration": 3.919
+  },
+  {
+    "text": "payment",
+    "start": 876.32,
+    "duration": 2.72
+  },
+  {
+    "text": "the users don't care because the users",
+    "start": 877.519,
+    "duration": 4.0
+  },
+  {
+    "text": "want rewards or the users want this now",
+    "start": 879.04,
+    "duration": 3.84
+  },
+  {
+    "text": "if a business",
+    "start": 881.519,
+    "duration": 3.201
+  },
+  {
+    "text": "is able to receive this and they're",
+    "start": 882.88,
+    "duration": 3.519
+  },
+  {
+    "text": "saving three percent or they're saving",
+    "start": 884.72,
+    "duration": 4.0
+  },
+  {
+    "text": "two percent or wherever it is they",
+    "start": 886.399,
+    "duration": 3.761
+  },
+  {
+    "text": "actually might be able to afford to",
+    "start": 888.72,
+    "duration": 3.04
+  },
+  {
+    "text": "provide incentives and then what are",
+    "start": 890.16,
+    "duration": 3.2
+  },
+  {
+    "text": "those incentives are those incentives",
+    "start": 891.76,
+    "duration": 5.12
+  },
+  {
+    "text": "like usdc cashback are those incentives",
+    "start": 893.36,
+    "duration": 6.159
+  },
+  {
+    "text": "actually no there's a form of reward",
+    "start": 896.88,
+    "duration": 5.28
+  },
+  {
+    "text": "token that's nf that is an nft and that",
+    "start": 899.519,
+    "duration": 4.401
+  },
+  {
+    "text": "then you're getting this credential and",
+    "start": 902.16,
+    "duration": 4.0
+  },
+  {
+    "text": "you can accrue more value from that",
+    "start": 903.92,
+    "duration": 3.599
+  },
+  {
+    "text": "and and then have",
+    "start": 906.16,
+    "duration": 3.2
+  },
+  {
+    "text": "different forms of affinity so it seems",
+    "start": 907.519,
+    "duration": 4.161
+  },
+  {
+    "text": "like the intersection of like",
+    "start": 909.36,
+    "duration": 3.919
+  },
+  {
+    "text": "stable coin",
+    "start": 911.68,
+    "duration": 2.88
+  },
+  {
+    "text": "payments",
+    "start": 913.279,
+    "duration": 3.041
+  },
+  {
+    "text": "nfts",
+    "start": 914.56,
+    "duration": 4.32
+  },
+  {
+    "text": "like working together could actually",
+    "start": 916.32,
+    "duration": 4.48
+  },
+  {
+    "text": "create incentive models",
+    "start": 918.88,
+    "duration": 3.12
+  },
+  {
+    "text": "for",
+    "start": 920.8,
+    "duration": 4.68
+  },
+  {
+    "text": "for for for and actually build customer",
+    "start": 922.0,
+    "duration": 5.279
+  },
+  {
+    "text": "relationships",
+    "start": 925.48,
+    "duration": 4.2
+  },
+  {
+    "text": "that are better than the abstract like i",
+    "start": 927.279,
+    "duration": 3.841
+  },
+  {
+    "text": "got my chase points or whatever like you",
+    "start": 929.68,
+    "duration": 2.64
+  },
+  {
+    "text": "could actually build something that's",
+    "start": 931.12,
+    "duration": 2.56
+  },
+  {
+    "text": "more durable",
+    "start": 932.32,
+    "duration": 3.199
+  },
+  {
+    "text": "as a business",
+    "start": 933.68,
+    "duration": 5.519
+  },
+  {
+    "text": "by leveraging nfts and crypto payments",
+    "start": 935.519,
+    "duration": 6.161
+  },
+  {
+    "text": "and this is where i think like you know",
+    "start": 939.199,
+    "duration": 4.241
+  },
+  {
+    "text": "i have like a lot of crazy ideas you",
+    "start": 941.68,
+    "duration": 3.2
+  },
+  {
+    "text": "know every time you buy sneaker you can",
+    "start": 943.44,
+    "duration": 3.44
+  },
+  {
+    "text": "have like the crypto kickers mint that",
+    "start": 944.88,
+    "duration": 4.319
+  },
+  {
+    "text": "sneaker for you yeah and you can get",
+    "start": 946.88,
+    "duration": 4.319
+  },
+  {
+    "text": "that nft and that would be really really",
+    "start": 949.199,
+    "duration": 3.921
+  },
+  {
+    "text": "cool right",
+    "start": 951.199,
+    "duration": 3.681
+  },
+  {
+    "text": "but you have to find the right that kind",
+    "start": 953.12,
+    "duration": 4.24
+  },
+  {
+    "text": "of right user and that right product",
+    "start": 954.88,
+    "duration": 5.36
+  },
+  {
+    "text": "where the stuff works and yeah",
+    "start": 957.36,
+    "duration": 4.159
+  },
+  {
+    "text": "yeah",
+    "start": 960.24,
+    "duration": 3.519
+  },
+  {
+    "text": "yeah i mean like nfts like you know and",
+    "start": 961.519,
+    "duration": 4.161
+  },
+  {
+    "text": "if you know a ticket is an nft and a",
+    "start": 963.759,
+    "duration": 3.681
+  },
+  {
+    "text": "coupon is an nft like all these things",
+    "start": 965.68,
+    "duration": 4.8
+  },
+  {
+    "text": "are essentially nfts right and so i",
+    "start": 967.44,
+    "duration": 4.72
+  },
+  {
+    "text": "think it's it's people starting to say",
+    "start": 970.48,
+    "duration": 3.68
+  },
+  {
+    "text": "hey actually i'm going to build a coupon",
+    "start": 972.16,
+    "duration": 4.16
+  },
+  {
+    "text": "protocol and anyone can implement the",
+    "start": 974.16,
+    "duration": 4.64
+  },
+  {
+    "text": "coupon protocol and the coupon protocol",
+    "start": 976.32,
+    "duration": 5.439
+  },
+  {
+    "text": "uh it supports usdc and it supports nf",
+    "start": 978.8,
+    "duration": 4.959
+  },
+  {
+    "text": "it generates a particular type of coupon",
+    "start": 981.759,
+    "duration": 3.361
+  },
+  {
+    "text": "nft and",
+    "start": 983.759,
+    "duration": 3.601
+  },
+  {
+    "text": "you know imagine you know that maybe",
+    "start": 985.12,
+    "duration": 3.92
+  },
+  {
+    "text": "someone could do that at your hackathon",
+    "start": 987.36,
+    "duration": 2.8
+  },
+  {
+    "text": "um",
+    "start": 989.04,
+    "duration": 2.88
+  },
+  {
+    "text": "you know and then you know you mash",
+    "start": 990.16,
+    "duration": 3.679
+  },
+  {
+    "text": "these things up and and now you start to",
+    "start": 991.92,
+    "duration": 3.359
+  },
+  {
+    "text": "you start to do something pretty",
+    "start": 993.839,
+    "duration": 4.481
+  },
+  {
+    "text": "interesting um so there's a lot of",
+    "start": 995.279,
+    "duration": 4.8
+  },
+  {
+    "text": "things like that that i think that are",
+    "start": 998.32,
+    "duration": 5.12
+  },
+  {
+    "text": "that are possible for sure um",
+    "start": 1000.079,
+    "duration": 5.601
+  },
+  {
+    "text": "i i i guess um",
+    "start": 1003.44,
+    "duration": 4.56
+  },
+  {
+    "text": "yeah i mean another one is um",
+    "start": 1005.68,
+    "duration": 6.32
+  },
+  {
+    "text": "is you know the whole yeah you know",
+    "start": 1008.0,
+    "duration": 6.48
+  },
+  {
+    "text": "people like credit right so so one of",
+    "start": 1012.0,
+    "duration": 3.92
+  },
+  {
+    "text": "the other reasons why people use credit",
+    "start": 1014.48,
+    "duration": 3.68
+  },
+  {
+    "text": "cards is that they like credit",
+    "start": 1015.92,
+    "duration": 4.719
+  },
+  {
+    "text": "you know they like to borrow um",
+    "start": 1018.16,
+    "duration": 4.239
+  },
+  {
+    "text": "and you know i think",
+    "start": 1020.639,
+    "duration": 4.081
+  },
+  {
+    "text": "there's a whole question of",
+    "start": 1022.399,
+    "duration": 3.92
+  },
+  {
+    "text": "you know are there um",
+    "start": 1024.72,
+    "duration": 3.599
+  },
+  {
+    "text": "you know it's the buy now pay later",
+    "start": 1026.319,
+    "duration": 5.041
+  },
+  {
+    "text": "phenomenon and are there ways to build",
+    "start": 1028.319,
+    "duration": 7.201
+  },
+  {
+    "text": "you know like on-chain bnpl",
+    "start": 1031.36,
+    "duration": 5.599
+  },
+  {
+    "text": "leveraging",
+    "start": 1035.52,
+    "duration": 3.36
+  },
+  {
+    "text": "um you know",
+    "start": 1036.959,
+    "duration": 3.041
+  },
+  {
+    "text": "things like",
+    "start": 1038.88,
+    "duration": 3.439
+  },
+  {
+    "text": "verifiable identity credentials",
+    "start": 1040.0,
+    "duration": 4.88
+  },
+  {
+    "text": "verifiable credit scores that can be",
+    "start": 1042.319,
+    "duration": 5.6
+  },
+  {
+    "text": "proven to a smart contract that then",
+    "start": 1044.88,
+    "duration": 4.08
+  },
+  {
+    "text": "you know",
+    "start": 1047.919,
+    "duration": 2.081
+  },
+  {
+    "text": "actually",
+    "start": 1048.96,
+    "duration": 3.599
+  },
+  {
+    "text": "you know would would enable us",
+    "start": 1050.0,
+    "duration": 4.72
+  },
+  {
+    "text": "a a d5 protocol to underwrite someone",
+    "start": 1052.559,
+    "duration": 4.321
+  },
+  {
+    "text": "for credit for at a just-in-time payment",
+    "start": 1054.72,
+    "duration": 4.959
+  },
+  {
+    "text": "and that could again be a protocol that",
+    "start": 1056.88,
+    "duration": 4.32
+  },
+  {
+    "text": "could then be woven together by people",
+    "start": 1059.679,
+    "duration": 4.321
+  },
+  {
+    "text": "building applications like this",
+    "start": 1061.2,
+    "duration": 5.76
+  },
+  {
+    "text": "that's that is a i think one of the most",
+    "start": 1064.0,
+    "duration": 5.919
+  },
+  {
+    "text": "exciting opportunities but that's a",
+    "start": 1066.96,
+    "duration": 5.12
+  },
+  {
+    "text": "a serious undertaking right that's a",
+    "start": 1069.919,
+    "duration": 4.64
+  },
+  {
+    "text": "start that's a venture backable startup",
+    "start": 1072.08,
+    "duration": 3.52
+  },
+  {
+    "text": "yeah",
+    "start": 1074.559,
+    "duration": 2.721
+  },
+  {
+    "text": "absolutely there's plenty of people that",
+    "start": 1075.6,
+    "duration": 4.959
+  },
+  {
+    "text": "will back you uh but the but it's not",
+    "start": 1077.28,
+    "duration": 4.8
+  },
+  {
+    "text": "gonna be easy",
+    "start": 1080.559,
+    "duration": 3.681
+  },
+  {
+    "text": "yeah um and that's one of the most i",
+    "start": 1082.08,
+    "duration": 4.16
+  },
+  {
+    "text": "think exciting ones that i feel could",
+    "start": 1084.24,
+    "duration": 5.04
+  },
+  {
+    "text": "revolutionize finance um",
+    "start": 1086.24,
+    "duration": 5.04
+  },
+  {
+    "text": "i'm just wondering where",
+    "start": 1089.28,
+    "duration": 4.639
+  },
+  {
+    "text": "do you guys see circle is that something",
+    "start": 1091.28,
+    "duration": 3.92
+  },
+  {
+    "text": "like these features that you guys would",
+    "start": 1093.919,
+    "duration": 2.801
+  },
+  {
+    "text": "ever want to build or are you looking",
+    "start": 1095.2,
+    "duration": 3.44
+  },
+  {
+    "text": "for companies to kind of build on top of",
+    "start": 1096.72,
+    "duration": 3.04
+  },
+  {
+    "text": "circle",
+    "start": 1098.64,
+    "duration": 3.12
+  },
+  {
+    "text": "you know i i think it's sort of all the",
+    "start": 1099.76,
+    "duration": 5.68
+  },
+  {
+    "text": "above like i think our general view is",
+    "start": 1101.76,
+    "duration": 5.12
+  },
+  {
+    "text": "you know first we just want to like",
+    "start": 1105.44,
+    "duration": 4.0
+  },
+  {
+    "text": "promote really wide adoption of of",
+    "start": 1106.88,
+    "duration": 4.24
+  },
+  {
+    "text": "things like usdc",
+    "start": 1109.44,
+    "duration": 3.68
+  },
+  {
+    "text": "and other other standards that we think",
+    "start": 1111.12,
+    "duration": 4.0
+  },
+  {
+    "text": "are important standards in identity you",
+    "start": 1113.12,
+    "duration": 3.679
+  },
+  {
+    "text": "know things like solana pay or payment",
+    "start": 1115.12,
+    "duration": 3.36
+  },
+  {
+    "text": "protocol standards like it's just",
+    "start": 1116.799,
+    "duration": 3.041
+  },
+  {
+    "text": "important that",
+    "start": 1118.48,
+    "duration": 2.559
+  },
+  {
+    "text": "you know there's",
+    "start": 1119.84,
+    "duration": 3.199
+  },
+  {
+    "text": "developers can just use these things and",
+    "start": 1121.039,
+    "duration": 4.241
+  },
+  {
+    "text": "build all kinds of things right and we",
+    "start": 1123.039,
+    "duration": 5.121
+  },
+  {
+    "text": "want to support that and and and and",
+    "start": 1125.28,
+    "duration": 5.84
+  },
+  {
+    "text": "invest in that um you know at the same",
+    "start": 1128.16,
+    "duration": 4.08
+  },
+  {
+    "text": "time",
+    "start": 1131.12,
+    "duration": 3.04
+  },
+  {
+    "text": "we definitely want to try and solve some",
+    "start": 1132.24,
+    "duration": 3.28
+  },
+  {
+    "text": "problems",
+    "start": 1134.16,
+    "duration": 2.879
+  },
+  {
+    "text": "for businesses",
+    "start": 1135.52,
+    "duration": 3.76
+  },
+  {
+    "text": "um and and you know be able to provide",
+    "start": 1137.039,
+    "duration": 4.081
+  },
+  {
+    "text": "services through a circle account circle",
+    "start": 1139.28,
+    "duration": 3.12
+  },
+  {
+    "text": "apis",
+    "start": 1141.12,
+    "duration": 3.679
+  },
+  {
+    "text": "that you know that deal with some of",
+    "start": 1142.4,
+    "duration": 5.6
+  },
+  {
+    "text": "these problem spaces um so i think you",
+    "start": 1144.799,
+    "duration": 6.481
+  },
+  {
+    "text": "know we're we're um you know we're we're",
+    "start": 1148.0,
+    "duration": 5.2
+  },
+  {
+    "text": "we're both interested in just seeing",
+    "start": 1151.28,
+    "duration": 4.56
+  },
+  {
+    "text": "proliferation of of of creativity around",
+    "start": 1153.2,
+    "duration": 4.16
+  },
+  {
+    "text": "these problem spaces because because at",
+    "start": 1155.84,
+    "duration": 3.36
+  },
+  {
+    "text": "the end of the day that that is really",
+    "start": 1157.36,
+    "duration": 5.199
+  },
+  {
+    "text": "valuable um for for making this work um",
+    "start": 1159.2,
+    "duration": 5.2
+  },
+  {
+    "text": "and and then you know secondly yeah we",
+    "start": 1162.559,
+    "duration": 4.48
+  },
+  {
+    "text": "certainly want to continue to add value",
+    "start": 1164.4,
+    "duration": 5.279
+  },
+  {
+    "text": "ourselves um you know we do today",
+    "start": 1167.039,
+    "duration": 5.041
+  },
+  {
+    "text": "provide you know payment apis",
+    "start": 1169.679,
+    "duration": 4.24
+  },
+  {
+    "text": "and payout apis",
+    "start": 1172.08,
+    "duration": 4.0
+  },
+  {
+    "text": "you know our payment apis",
+    "start": 1173.919,
+    "duration": 5.041
+  },
+  {
+    "text": "can handle payments with with with",
+    "start": 1176.08,
+    "duration": 5.04
+  },
+  {
+    "text": "crypto um",
+    "start": 1178.96,
+    "duration": 4.56
+  },
+  {
+    "text": "but also payments with legacy rails",
+    "start": 1181.12,
+    "duration": 3.919
+  },
+  {
+    "text": "um and",
+    "start": 1183.52,
+    "duration": 3.2
+  },
+  {
+    "text": "i think we'd like to see kind of",
+    "start": 1185.039,
+    "duration": 3.361
+  },
+  {
+    "text": "payments with crypto rails really",
+    "start": 1186.72,
+    "duration": 2.64
+  },
+  {
+    "text": "improve",
+    "start": 1188.4,
+    "duration": 4.0
+  },
+  {
+    "text": "um but i i guess our view is that it's",
+    "start": 1189.36,
+    "duration": 5.199
+  },
+  {
+    "text": "not something to do alone right because",
+    "start": 1192.4,
+    "duration": 3.92
+  },
+  {
+    "text": "this is only interesting is if there's",
+    "start": 1194.559,
+    "duration": 3.841
+  },
+  {
+    "text": "if there's a lot of interoperability and",
+    "start": 1196.32,
+    "duration": 3.2
+  },
+  {
+    "text": "people can",
+    "start": 1198.4,
+    "duration": 2.72
+  },
+  {
+    "text": "anyone who creates",
+    "start": 1199.52,
+    "duration": 4.08
+  },
+  {
+    "text": "a a digital wallet or a smart contract",
+    "start": 1201.12,
+    "duration": 3.76
+  },
+  {
+    "text": "or a",
+    "start": 1203.6,
+    "duration": 2.959
+  },
+  {
+    "text": "you know a point of sale device or",
+    "start": 1204.88,
+    "duration": 3.96
+  },
+  {
+    "text": "whatever that stuff should should be",
+    "start": 1206.559,
+    "duration": 5.12
+  },
+  {
+    "text": "non-proprietary right so i think we we",
+    "start": 1208.84,
+    "duration": 5.079
+  },
+  {
+    "text": "um we're interested in",
+    "start": 1211.679,
+    "duration": 4.081
+  },
+  {
+    "text": "you know creating standards and also",
+    "start": 1213.919,
+    "duration": 4.721
+  },
+  {
+    "text": "implementing them ourselves",
+    "start": 1215.76,
+    "duration": 4.96
+  },
+  {
+    "text": "what are the challenges with like an on",
+    "start": 1218.64,
+    "duration": 4.64
+  },
+  {
+    "text": "a credit system like to to go to build",
+    "start": 1220.72,
+    "duration": 3.76
+  },
+  {
+    "text": "this this is something that i've been",
+    "start": 1223.28,
+    "duration": 4.56
+  },
+  {
+    "text": "doing in my head but i um it seems",
+    "start": 1224.48,
+    "duration": 4.72
+  },
+  {
+    "text": "like there's a lot of pieces that you",
+    "start": 1227.84,
+    "duration": 3.36
+  },
+  {
+    "text": "need that are still not there yet and",
+    "start": 1229.2,
+    "duration": 4.479
+  },
+  {
+    "text": "yeah in blockchain",
+    "start": 1231.2,
+    "duration": 4.32
+  },
+  {
+    "text": "yeah i guess um",
+    "start": 1233.679,
+    "duration": 3.281
+  },
+  {
+    "text": "um",
+    "start": 1235.52,
+    "duration": 3.68
+  },
+  {
+    "text": "you know i i think that",
+    "start": 1236.96,
+    "duration": 4.0
+  },
+  {
+    "text": "you know if you wanted to do all of",
+    "start": 1239.2,
+    "duration": 4.479
+  },
+  {
+    "text": "these things on top of",
+    "start": 1240.96,
+    "duration": 5.44
+  },
+  {
+    "text": "crypto primitives and smart contracts",
+    "start": 1243.679,
+    "duration": 5.841
+  },
+  {
+    "text": "and and and you know have",
+    "start": 1246.4,
+    "duration": 4.0
+  },
+  {
+    "text": "um",
+    "start": 1249.52,
+    "duration": 2.56
+  },
+  {
+    "text": "you know user-controlled wallets that",
+    "start": 1250.4,
+    "duration": 3.2
+  },
+  {
+    "text": "could do this",
+    "start": 1252.08,
+    "duration": 3.04
+  },
+  {
+    "text": "you know there there are a lot of things",
+    "start": 1253.6,
+    "duration": 3.439
+  },
+  {
+    "text": "that are needed right you need",
+    "start": 1255.12,
+    "duration": 3.28
+  },
+  {
+    "text": "um",
+    "start": 1257.039,
+    "duration": 3.601
+  },
+  {
+    "text": "you know i think you need",
+    "start": 1258.4,
+    "duration": 4.24
+  },
+  {
+    "text": "provable identity",
+    "start": 1260.64,
+    "duration": 4.08
+  },
+  {
+    "text": "um so you need to have like identity",
+    "start": 1262.64,
+    "duration": 4.32
+  },
+  {
+    "text": "attestations that you know you could get",
+    "start": 1264.72,
+    "duration": 6.16
+  },
+  {
+    "text": "an identity from a coinbase or a ftx or",
+    "start": 1266.96,
+    "duration": 6.32
+  },
+  {
+    "text": "or or square or whoever",
+    "start": 1270.88,
+    "duration": 3.279
+  },
+  {
+    "text": "and",
+    "start": 1273.28,
+    "duration": 3.04
+  },
+  {
+    "text": "you could then you know kind of go out",
+    "start": 1274.159,
+    "duration": 4.561
+  },
+  {
+    "text": "to a service and and then one just know",
+    "start": 1276.32,
+    "duration": 4.4
+  },
+  {
+    "text": "okay i'm dealing with a real human okay",
+    "start": 1278.72,
+    "duration": 4.0
+  },
+  {
+    "text": "and then i think you you also need the",
+    "start": 1280.72,
+    "duration": 4.16
+  },
+  {
+    "text": "ability to have",
+    "start": 1282.72,
+    "duration": 3.439
+  },
+  {
+    "text": "ways to",
+    "start": 1284.88,
+    "duration": 2.64
+  },
+  {
+    "text": "have kind of",
+    "start": 1286.159,
+    "duration": 3.601
+  },
+  {
+    "text": "claims about an identity that are",
+    "start": 1287.52,
+    "duration": 4.399
+  },
+  {
+    "text": "cryptographically proven that can be",
+    "start": 1289.76,
+    "duration": 4.08
+  },
+  {
+    "text": "presented as credentials",
+    "start": 1291.919,
+    "duration": 6.0
+  },
+  {
+    "text": "and verified by a smart contract",
+    "start": 1293.84,
+    "duration": 6.16
+  },
+  {
+    "text": "without privacy leakage but like i want",
+    "start": 1297.919,
+    "duration": 4.401
+  },
+  {
+    "text": "to prove a credit score on chain it's a",
+    "start": 1300.0,
+    "duration": 3.84
+  },
+  {
+    "text": "little bit like the oracle problem but i",
+    "start": 1302.32,
+    "duration": 4.0
+  },
+  {
+    "text": "think it's more specific to",
+    "start": 1303.84,
+    "duration": 4.88
+  },
+  {
+    "text": "identity and and so i think that's like",
+    "start": 1306.32,
+    "duration": 4.239
+  },
+  {
+    "text": "a really important building block and i",
+    "start": 1308.72,
+    "duration": 4.16
+  },
+  {
+    "text": "think when you have that building block",
+    "start": 1310.559,
+    "duration": 5.841
+  },
+  {
+    "text": "then people can start to to to to build",
+    "start": 1312.88,
+    "duration": 4.4
+  },
+  {
+    "text": "you know",
+    "start": 1316.4,
+    "duration": 3.36
+  },
+  {
+    "text": "applications or smart contracts that can",
+    "start": 1317.28,
+    "duration": 4.72
+  },
+  {
+    "text": "start to make decisions based on real",
+    "start": 1319.76,
+    "duration": 3.68
+  },
+  {
+    "text": "world data",
+    "start": 1322.0,
+    "duration": 3.12
+  },
+  {
+    "text": "and identity which you kind of need to",
+    "start": 1323.44,
+    "duration": 3.28
+  },
+  {
+    "text": "do when you're underwriting someone for",
+    "start": 1325.12,
+    "duration": 3.6
+  },
+  {
+    "text": "credit right um",
+    "start": 1326.72,
+    "duration": 4.48
+  },
+  {
+    "text": "and then you know i think",
+    "start": 1328.72,
+    "duration": 4.959
+  },
+  {
+    "text": "you know i i think in theory just like",
+    "start": 1331.2,
+    "duration": 4.64
+  },
+  {
+    "text": "you have liquidity providers on d5",
+    "start": 1333.679,
+    "duration": 3.681
+  },
+  {
+    "text": "protocols",
+    "start": 1335.84,
+    "duration": 4.24
+  },
+  {
+    "text": "and you have risk takers on insurance",
+    "start": 1337.36,
+    "duration": 5.52
+  },
+  {
+    "text": "pools on d5 protocols like you could",
+    "start": 1340.08,
+    "duration": 4.88
+  },
+  {
+    "text": "imagine there being",
+    "start": 1342.88,
+    "duration": 2.96
+  },
+  {
+    "text": "you know",
+    "start": 1344.96,
+    "duration": 2.8
+  },
+  {
+    "text": "essentially liquidity providers and risk",
+    "start": 1345.84,
+    "duration": 4.4
+  },
+  {
+    "text": "takers that are providing",
+    "start": 1347.76,
+    "duration": 4.96
+  },
+  {
+    "text": "you know unsecured underwriting",
+    "start": 1350.24,
+    "duration": 3.439
+  },
+  {
+    "text": "um",
+    "start": 1352.72,
+    "duration": 2.72
+  },
+  {
+    "text": "kind of but but having a little bit more",
+    "start": 1353.679,
+    "duration": 3.761
+  },
+  {
+    "text": "data to be able to do that",
+    "start": 1355.44,
+    "duration": 4.479
+  },
+  {
+    "text": "um so that's like a next piece but i",
+    "start": 1357.44,
+    "duration": 3.68
+  },
+  {
+    "text": "think there are if you look at what's",
+    "start": 1359.919,
+    "duration": 3.361
+  },
+  {
+    "text": "been implemented in d5 to date you can",
+    "start": 1361.12,
+    "duration": 4.0
+  },
+  {
+    "text": "see some patterns that could be applied",
+    "start": 1363.28,
+    "duration": 5.44
+  },
+  {
+    "text": "there um i think one of the things is",
+    "start": 1365.12,
+    "duration": 5.28
+  },
+  {
+    "text": "is actually",
+    "start": 1368.72,
+    "duration": 3.28
+  },
+  {
+    "text": "you know the the",
+    "start": 1370.4,
+    "duration": 4.48
+  },
+  {
+    "text": "kind of the recurring payment problem um",
+    "start": 1372.0,
+    "duration": 4.0
+  },
+  {
+    "text": "which is",
+    "start": 1374.88,
+    "duration": 3.76
+  },
+  {
+    "text": "you know the equivalent of like",
+    "start": 1376.0,
+    "duration": 5.12
+  },
+  {
+    "text": "there's a smart contract that has access",
+    "start": 1378.64,
+    "duration": 3.519
+  },
+  {
+    "text": "to",
+    "start": 1381.12,
+    "duration": 2.48
+  },
+  {
+    "text": "balances",
+    "start": 1382.159,
+    "duration": 3.921
+  },
+  {
+    "text": "that i can sweep from in an automated",
+    "start": 1383.6,
+    "duration": 3.68
+  },
+  {
+    "text": "way",
+    "start": 1386.08,
+    "duration": 4.32
+  },
+  {
+    "text": "um you know just like you know i i",
+    "start": 1387.28,
+    "duration": 4.96
+  },
+  {
+    "text": "whatever if i use a firm",
+    "start": 1390.4,
+    "duration": 3.84
+  },
+  {
+    "text": "and i've linked my bank account and they",
+    "start": 1392.24,
+    "duration": 4.48
+  },
+  {
+    "text": "you know take a certain amount of debit",
+    "start": 1394.24,
+    "duration": 5.04
+  },
+  {
+    "text": "from my from my bank you know to pay",
+    "start": 1396.72,
+    "duration": 4.16
+  },
+  {
+    "text": "down my balances",
+    "start": 1399.28,
+    "duration": 5.12
+  },
+  {
+    "text": "you know sort of permissioning of sweeps",
+    "start": 1400.88,
+    "duration": 4.32
+  },
+  {
+    "text": "on",
+    "start": 1404.4,
+    "duration": 3.44
+  },
+  {
+    "text": "smart contracts and in a digital wallet",
+    "start": 1405.2,
+    "duration": 5.04
+  },
+  {
+    "text": "on a recurring basis so i think that's",
+    "start": 1407.84,
+    "duration": 3.839
+  },
+  {
+    "text": "kind of what needs to get you need to",
+    "start": 1410.24,
+    "duration": 4.48
+  },
+  {
+    "text": "solve those kinds of problems um i think",
+    "start": 1411.679,
+    "duration": 4.88
+  },
+  {
+    "text": "but those those seem like solvable",
+    "start": 1414.72,
+    "duration": 3.92
+  },
+  {
+    "text": "problems do you think consumer",
+    "start": 1416.559,
+    "duration": 4.321
+  },
+  {
+    "text": "protection on like returns and stuff",
+    "start": 1418.64,
+    "duration": 4.639
+  },
+  {
+    "text": "like that is critical for this or like",
+    "start": 1420.88,
+    "duration": 4.32
+  },
+  {
+    "text": "this is like i i'm trying to like",
+    "start": 1423.279,
+    "duration": 4.241
+  },
+  {
+    "text": "understand what is a credit card at the",
+    "start": 1425.2,
+    "duration": 5.12
+  },
+  {
+    "text": "end of the day right right right right",
+    "start": 1427.52,
+    "duration": 5.44
+  },
+  {
+    "text": "are those like sep like it almost feels",
+    "start": 1430.32,
+    "duration": 4.4
+  },
+  {
+    "text": "like in a decentralized world we could",
+    "start": 1432.96,
+    "duration": 3.68
+  },
+  {
+    "text": "have a different protocol for each one",
+    "start": 1434.72,
+    "duration": 3.68
+  },
+  {
+    "text": "of these pieces that are kind of yeah",
+    "start": 1436.64,
+    "duration": 4.08
+  },
+  {
+    "text": "come together yeah i mean you you could",
+    "start": 1438.4,
+    "duration": 4.96
+  },
+  {
+    "text": "imagine um you know you could a",
+    "start": 1440.72,
+    "duration": 4.48
+  },
+  {
+    "text": "uh imagine um",
+    "start": 1443.36,
+    "duration": 3.28
+  },
+  {
+    "text": "you know at the end of the day right",
+    "start": 1445.2,
+    "duration": 4.24
+  },
+  {
+    "text": "returns and and and chargebacks or",
+    "start": 1446.64,
+    "duration": 5.84
+  },
+  {
+    "text": "returns and and and either seller fraud",
+    "start": 1449.44,
+    "duration": 3.92
+  },
+  {
+    "text": "you know",
+    "start": 1452.48,
+    "duration": 1.92
+  },
+  {
+    "text": "um",
+    "start": 1453.36,
+    "duration": 4.72
+  },
+  {
+    "text": "are are are risks and so if there's a if",
+    "start": 1454.4,
+    "duration": 5.2
+  },
+  {
+    "text": "there's a market for that risk and you",
+    "start": 1458.08,
+    "duration": 3.599
+  },
+  {
+    "text": "can price that risk and there's willing",
+    "start": 1459.6,
+    "duration": 3.439
+  },
+  {
+    "text": "and and there's people who are willing",
+    "start": 1461.679,
+    "duration": 3.041
+  },
+  {
+    "text": "to provide the liquidity that's needed",
+    "start": 1463.039,
+    "duration": 3.841
+  },
+  {
+    "text": "for that risk you could in theory do",
+    "start": 1464.72,
+    "duration": 3.92
+  },
+  {
+    "text": "that on chain as well",
+    "start": 1466.88,
+    "duration": 3.679
+  },
+  {
+    "text": "um you could simply say",
+    "start": 1468.64,
+    "duration": 5.2
+  },
+  {
+    "text": "there's risk of seller fraud um and um",
+    "start": 1470.559,
+    "duration": 4.48
+  },
+  {
+    "text": "you know that is",
+    "start": 1473.84,
+    "duration": 3.04
+  },
+  {
+    "text": "that is essentially what some where some",
+    "start": 1475.039,
+    "duration": 3.681
+  },
+  {
+    "text": "of the fees come from",
+    "start": 1476.88,
+    "duration": 4.159
+  },
+  {
+    "text": "when you use paypal",
+    "start": 1478.72,
+    "duration": 4.4
+  },
+  {
+    "text": "or you you know why is it more expensive",
+    "start": 1481.039,
+    "duration": 3.841
+  },
+  {
+    "text": "to use paypal why is it more expensive",
+    "start": 1483.12,
+    "duration": 4.159
+  },
+  {
+    "text": "to use american express as a business is",
+    "start": 1484.88,
+    "duration": 4.159
+  },
+  {
+    "text": "because there's insurance products that",
+    "start": 1487.279,
+    "duration": 4.161
+  },
+  {
+    "text": "are built into that and it's the price",
+    "start": 1489.039,
+    "duration": 4.801
+  },
+  {
+    "text": "of the insurance and so again",
+    "start": 1491.44,
+    "duration": 3.839
+  },
+  {
+    "text": "why not have those insurance products",
+    "start": 1493.84,
+    "duration": 2.56
+  },
+  {
+    "text": "kind of work",
+    "start": 1495.279,
+    "duration": 3.921
+  },
+  {
+    "text": "in a protocol on chain that then",
+    "start": 1496.4,
+    "duration": 5.68
+  },
+  {
+    "text": "markets can interact with and not have",
+    "start": 1499.2,
+    "duration": 4.8
+  },
+  {
+    "text": "it be tied to a particular closed-loop",
+    "start": 1502.08,
+    "duration": 4.959
+  },
+  {
+    "text": "payment uh system but be",
+    "start": 1504.0,
+    "duration": 6.559
+  },
+  {
+    "text": "be more open so i i do feel like",
+    "start": 1507.039,
+    "duration": 4.481
+  },
+  {
+    "text": "these are",
+    "start": 1510.559,
+    "duration": 2.24
+  },
+  {
+    "text": "you know",
+    "start": 1511.52,
+    "duration": 3.519
+  },
+  {
+    "text": "pricing of risk and and underwriting and",
+    "start": 1512.799,
+    "duration": 4.961
+  },
+  {
+    "text": "providing liquidity against that risk",
+    "start": 1515.039,
+    "duration": 4.321
+  },
+  {
+    "text": "that is the problem",
+    "start": 1517.76,
+    "duration": 2.799
+  },
+  {
+    "text": "um",
+    "start": 1519.36,
+    "duration": 3.76
+  },
+  {
+    "text": "and and and so it seems like",
+    "start": 1520.559,
+    "duration": 4.24
+  },
+  {
+    "text": "there's ways to do that",
+    "start": 1523.12,
+    "duration": 4.72
+  },
+  {
+    "text": "uh without again requiring like a whole",
+    "start": 1524.799,
+    "duration": 7.521
+  },
+  {
+    "text": "closed loop um kind of kind of model",
+    "start": 1527.84,
+    "duration": 4.48
+  },
+  {
+    "text": "yeah i'm i'm looking forward to seeing",
+    "start": 1534.08,
+    "duration": 3.36
+  },
+  {
+    "text": "what uh",
+    "start": 1536.32,
+    "duration": 3.44
+  },
+  {
+    "text": "developers try this hackathon i think",
+    "start": 1537.44,
+    "duration": 5.28
+  },
+  {
+    "text": "this is like i'm",
+    "start": 1539.76,
+    "duration": 5.039
+  },
+  {
+    "text": "yeah",
+    "start": 1542.72,
+    "duration": 3.76
+  },
+  {
+    "text": "me too i mean it's an it's an exciting",
+    "start": 1544.799,
+    "duration": 3.281
+  },
+  {
+    "text": "time when when people can start to work",
+    "start": 1546.48,
+    "duration": 4.559
+  },
+  {
+    "text": "on on these kinds of problems um",
+    "start": 1548.08,
+    "duration": 6.719
+  },
+  {
+    "text": "maybe changing gears a little bit um",
+    "start": 1551.039,
+    "duration": 3.76
+  },
+  {
+    "text": "and maybe to conclude that like",
+    "start": 1555.12,
+    "duration": 4.0
+  },
+  {
+    "text": "super excited about the work that's",
+    "start": 1557.279,
+    "duration": 3.52
+  },
+  {
+    "text": "happening in in in",
+    "start": 1559.12,
+    "duration": 3.36
+  },
+  {
+    "text": "you know with solana in this space with",
+    "start": 1560.799,
+    "duration": 3.76
+  },
+  {
+    "text": "usdc and stuff and excited about what we",
+    "start": 1562.48,
+    "duration": 4.799
+  },
+  {
+    "text": "can keep doing together but um",
+    "start": 1564.559,
+    "duration": 4.961
+  },
+  {
+    "text": "i i guess like changing gears a little",
+    "start": 1567.279,
+    "duration": 3.601
+  },
+  {
+    "text": "bit",
+    "start": 1569.52,
+    "duration": 2.399
+  },
+  {
+    "text": "which is",
+    "start": 1570.88,
+    "duration": 2.64
+  },
+  {
+    "text": "you know essentially the you know we'll",
+    "start": 1571.919,
+    "duration": 3.841
+  },
+  {
+    "text": "call like the scalability wars um you",
+    "start": 1573.52,
+    "duration": 3.92
+  },
+  {
+    "text": "know where where are we",
+    "start": 1575.76,
+    "duration": 4.56
+  },
+  {
+    "text": "in that journey um and",
+    "start": 1577.44,
+    "duration": 4.479
+  },
+  {
+    "text": "you know i i think",
+    "start": 1580.32,
+    "duration": 3.2
+  },
+  {
+    "text": "you know the sort of resiliency and",
+    "start": 1581.919,
+    "duration": 3.041
+  },
+  {
+    "text": "robustness",
+    "start": 1583.52,
+    "duration": 3.84
+  },
+  {
+    "text": "um which is obviously like critical",
+    "start": 1584.96,
+    "duration": 4.24
+  },
+  {
+    "text": "and then in terms of just the",
+    "start": 1587.36,
+    "duration": 4.559
+  },
+  {
+    "text": "architecture for scaling itself",
+    "start": 1589.2,
+    "duration": 5.359
+  },
+  {
+    "text": "um how are you feeling about",
+    "start": 1591.919,
+    "duration": 3.681
+  },
+  {
+    "text": "you know",
+    "start": 1594.559,
+    "duration": 3.681
+  },
+  {
+    "text": "you know what what you know you know",
+    "start": 1595.6,
+    "duration": 4.48
+  },
+  {
+    "text": "what the kind of improvements that are",
+    "start": 1598.24,
+    "duration": 2.96
+  },
+  {
+    "text": "happening with bandwidth and high",
+    "start": 1600.08,
+    "duration": 2.64
+  },
+  {
+    "text": "performance computing are going to mean",
+    "start": 1601.2,
+    "duration": 3.28
+  },
+  {
+    "text": "for solana and or other things that",
+    "start": 1602.72,
+    "duration": 4.079
+  },
+  {
+    "text": "you're doing architecturally like a",
+    "start": 1604.48,
+    "duration": 4.799
+  },
+  {
+    "text": "little bit on the scalability roadmap to",
+    "start": 1606.799,
+    "duration": 3.921
+  },
+  {
+    "text": "the degree that you you want to talk",
+    "start": 1609.279,
+    "duration": 3.76
+  },
+  {
+    "text": "publicly about that yeah i mean all the",
+    "start": 1610.72,
+    "duration": 4.24
+  },
+  {
+    "text": "stuff is open source and then github so",
+    "start": 1613.039,
+    "duration": 3.201
+  },
+  {
+    "text": "if you're watching",
+    "start": 1614.96,
+    "duration": 3.68
+  },
+  {
+    "text": "you kind of see what's happening",
+    "start": 1616.24,
+    "duration": 4.72
+  },
+  {
+    "text": "so some of the exciting things that are",
+    "start": 1618.64,
+    "duration": 5.68
+  },
+  {
+    "text": "like basically in 1.9 but",
+    "start": 1620.96,
+    "duration": 4.48
+  },
+  {
+    "text": "we're",
+    "start": 1624.32,
+    "duration": 3.359
+  },
+  {
+    "text": "effectively testing them at scale",
+    "start": 1625.44,
+    "duration": 3.44
+  },
+  {
+    "text": "um",
+    "start": 1627.679,
+    "duration": 3.521
+  },
+  {
+    "text": "we uh reworked the",
+    "start": 1628.88,
+    "duration": 4.56
+  },
+  {
+    "text": "accounting system how the memory stored",
+    "start": 1631.2,
+    "duration": 4.64
+  },
+  {
+    "text": "so it's not dependent on ram so",
+    "start": 1633.44,
+    "duration": 3.92
+  },
+  {
+    "text": "effectively",
+    "start": 1635.84,
+    "duration": 4.64
+  },
+  {
+    "text": "we've we've been able to simulate like a",
+    "start": 1637.36,
+    "duration": 5.039
+  },
+  {
+    "text": "cluster with like over",
+    "start": 1640.48,
+    "duration": 3.36
+  },
+  {
+    "text": "you know i think close to eight billion",
+    "start": 1642.399,
+    "duration": 2.4
+  },
+  {
+    "text": "accounts",
+    "start": 1643.84,
+    "duration": 3.04
+  },
+  {
+    "text": "running in about four terabytes roughly",
+    "start": 1644.799,
+    "duration": 3.681
+  },
+  {
+    "text": "you know one billion account is about",
+    "start": 1646.88,
+    "duration": 3.37
+  },
+  {
+    "text": "500 gigabytes of state",
+    "start": 1648.48,
+    "duration": 3.04
+  },
+  {
+    "text": "[Music]",
+    "start": 1650.25,
+    "duration": 3.27
+  },
+  {
+    "text": "and stable and you can effectively throw",
+    "start": 1651.52,
+    "duration": 3.6
+  },
+  {
+    "text": "ssds at this",
+    "start": 1653.52,
+    "duration": 4.0
+  },
+  {
+    "text": "and keep growing the state",
+    "start": 1655.12,
+    "duration": 4.159
+  },
+  {
+    "text": "unlimited right it's limited by the the",
+    "start": 1657.52,
+    "duration": 2.8
+  },
+  {
+    "text": "pci",
+    "start": 1659.279,
+    "duration": 2.88
+  },
+  {
+    "text": "buses and how many things you can stuff",
+    "start": 1660.32,
+    "duration": 4.32
+  },
+  {
+    "text": "in a single node but you can actually",
+    "start": 1662.159,
+    "duration": 3.681
+  },
+  {
+    "text": "see that",
+    "start": 1664.64,
+    "duration": 3.12
+  },
+  {
+    "text": "in theory there's no reason why we're",
+    "start": 1665.84,
+    "duration": 4.48
+  },
+  {
+    "text": "limited to a single piece of",
+    "start": 1667.76,
+    "duration": 5.039
+  },
+  {
+    "text": "hardware per validator you can actually",
+    "start": 1670.32,
+    "duration": 4.4
+  },
+  {
+    "text": "start parallelizing this across multiple",
+    "start": 1672.799,
+    "duration": 3.36
+  },
+  {
+    "text": "machines but",
+    "start": 1674.72,
+    "duration": 3.12
+  },
+  {
+    "text": "we don't need that yet",
+    "start": 1676.159,
+    "duration": 4.88
+  },
+  {
+    "text": "i think a lot in a lot of ways um",
+    "start": 1677.84,
+    "duration": 4.959
+  },
+  {
+    "text": "moore's law is still moving growing a",
+    "start": 1681.039,
+    "duration": 5.12
+  },
+  {
+    "text": "lot faster than uh crypto is like um",
+    "start": 1682.799,
+    "duration": 5.841
+  },
+  {
+    "text": "right okay so adoption uh",
+    "start": 1686.159,
+    "duration": 4.721
+  },
+  {
+    "text": "hardware and and hardware throughput is",
+    "start": 1688.64,
+    "duration": 4.399
+  },
+  {
+    "text": "outpacing adoption of",
+    "start": 1690.88,
+    "duration": 5.039
+  },
+  {
+    "text": "yeah for now that's like that's you know",
+    "start": 1693.039,
+    "duration": 5.12
+  },
+  {
+    "text": "we we you know we we know it we know",
+    "start": 1695.919,
+    "duration": 5.12
+  },
+  {
+    "text": "that what what happens there right so",
+    "start": 1698.159,
+    "duration": 5.361
+  },
+  {
+    "text": "i suspect we'll see some point where",
+    "start": 1701.039,
+    "duration": 4.321
+  },
+  {
+    "text": "there's a very rapid inflection curve",
+    "start": 1703.52,
+    "duration": 4.24
+  },
+  {
+    "text": "for crypto adoption where we go from",
+    "start": 1705.36,
+    "duration": 4.319
+  },
+  {
+    "text": "the maybe five million users that",
+    "start": 1707.76,
+    "duration": 4.639
+  },
+  {
+    "text": "actively sign stuff in crypto per month",
+    "start": 1709.679,
+    "duration": 5.6
+  },
+  {
+    "text": "globally right to 500 million",
+    "start": 1712.399,
+    "duration": 3.921
+  },
+  {
+    "text": "right",
+    "start": 1715.279,
+    "duration": 3.361
+  },
+  {
+    "text": "when that happens i think you know this",
+    "start": 1716.32,
+    "duration": 5.04
+  },
+  {
+    "text": "is where it's critical for us that",
+    "start": 1718.64,
+    "duration": 4.399
+  },
+  {
+    "text": "not only are we ready from the software",
+    "start": 1721.36,
+    "duration": 3.6
+  },
+  {
+    "text": "perspective like why why are we testing",
+    "start": 1723.039,
+    "duration": 3.201
+  },
+  {
+    "text": "all this stuff why are you even working",
+    "start": 1724.96,
+    "duration": 3.199
+  },
+  {
+    "text": "on this when nobody needs it it's",
+    "start": 1726.24,
+    "duration": 4.08
+  },
+  {
+    "text": "because we want to have this live with",
+    "start": 1728.159,
+    "duration": 3.361
+  },
+  {
+    "text": "the hardware",
+    "start": 1730.32,
+    "duration": 3.359
+  },
+  {
+    "text": "to when that flood of users comes that",
+    "start": 1731.52,
+    "duration": 5.039
+  },
+  {
+    "text": "it happens on solana so things like that",
+    "start": 1733.679,
+    "duration": 5.041
+  },
+  {
+    "text": "and like reliability um folks have been",
+    "start": 1736.559,
+    "duration": 4.401
+  },
+  {
+    "text": "probably watching our development using",
+    "start": 1738.72,
+    "duration": 3.12
+  },
+  {
+    "text": "quick",
+    "start": 1740.96,
+    "duration": 3.04
+  },
+  {
+    "text": "uh this is a protocol that's kind of",
+    "start": 1741.84,
+    "duration": 4.959
+  },
+  {
+    "text": "like fancy tcp if you want to dumb it",
+    "start": 1744.0,
+    "duration": 5.2
+  },
+  {
+    "text": "down it's developed by google about i",
+    "start": 1746.799,
+    "duration": 5.36
+  },
+  {
+    "text": "think almost 10 years ago at this point",
+    "start": 1749.2,
+    "duration": 4.32
+  },
+  {
+    "text": "it's uh",
+    "start": 1752.159,
+    "duration": 3.52
+  },
+  {
+    "text": "the difference between tcp and",
+    "start": 1753.52,
+    "duration": 4.399
+  },
+  {
+    "text": "quick is that quick is built on top of",
+    "start": 1755.679,
+    "duration": 3.201
+  },
+  {
+    "text": "udp",
+    "start": 1757.919,
+    "duration": 2.721
+  },
+  {
+    "text": "so it allows out of order delivery",
+    "start": 1758.88,
+    "duration": 4.32
+  },
+  {
+    "text": "messages you don't get that",
+    "start": 1760.64,
+    "duration": 5.039
+  },
+  {
+    "text": "that kind of",
+    "start": 1763.2,
+    "duration": 4.959
+  },
+  {
+    "text": "uh you know slow performance that you",
+    "start": 1765.679,
+    "duration": 4.24
+  },
+  {
+    "text": "see when you're making a connection and",
+    "start": 1768.159,
+    "duration": 3.201
+  },
+  {
+    "text": "it gets blocked because there's a bunch",
+    "start": 1769.919,
+    "duration": 2.561
+  },
+  {
+    "text": "of stuff so",
+    "start": 1771.36,
+    "duration": 3.439
+  },
+  {
+    "text": "that low latency fast response time is",
+    "start": 1772.48,
+    "duration": 3.52
+  },
+  {
+    "text": "something that quick",
+    "start": 1774.799,
+    "duration": 4.0
+  },
+  {
+    "text": "uh enables and has the same security",
+    "start": 1776.0,
+    "duration": 4.64
+  },
+  {
+    "text": "benefits of tcp",
+    "start": 1778.799,
+    "duration": 4.161
+  },
+  {
+    "text": "so that's a big part of our",
+    "start": 1780.64,
+    "duration": 4.48
+  },
+  {
+    "text": "effort to improve reliability",
+    "start": 1782.96,
+    "duration": 2.959
+  },
+  {
+    "text": "but",
+    "start": 1785.12,
+    "duration": 3.679
+  },
+  {
+    "text": "after that we're still i think",
+    "start": 1785.919,
+    "duration": 6.401
+  },
+  {
+    "text": "looking at um dynamic fees so",
+    "start": 1788.799,
+    "duration": 6.48
+  },
+  {
+    "text": "part of the challenge with um solana is",
+    "start": 1792.32,
+    "duration": 4.959
+  },
+  {
+    "text": "we didn't know how the fee markets would",
+    "start": 1795.279,
+    "duration": 4.721
+  },
+  {
+    "text": "work on a system like this because",
+    "start": 1797.279,
+    "duration": 5.28
+  },
+  {
+    "text": "it's a parallel system right so",
+    "start": 1800.0,
+    "duration": 5.12
+  },
+  {
+    "text": "in ethereum you have a single single",
+    "start": 1802.559,
+    "duration": 4.081
+  },
+  {
+    "text": "state single virtual machine a",
+    "start": 1805.12,
+    "duration": 4.08
+  },
+  {
+    "text": "transaction can run across any part of",
+    "start": 1806.64,
+    "duration": 4.0
+  },
+  {
+    "text": "it at any time",
+    "start": 1809.2,
+    "duration": 3.92
+  },
+  {
+    "text": "so it's a single threaded application",
+    "start": 1810.64,
+    "duration": 4.639
+  },
+  {
+    "text": "right right everything runs in a very",
+    "start": 1813.12,
+    "duration": 4.96
+  },
+  {
+    "text": "simple sequence solana is not that it's",
+    "start": 1815.279,
+    "duration": 5.52
+  },
+  {
+    "text": "very parallelizable multi-threaded so",
+    "start": 1818.08,
+    "duration": 4.959
+  },
+  {
+    "text": "the thing that we really wanted to avoid",
+    "start": 1820.799,
+    "duration": 4.161
+  },
+  {
+    "text": "with the fee market was",
+    "start": 1823.039,
+    "duration": 4.481
+  },
+  {
+    "text": "that fees should only rise for a hot",
+    "start": 1824.96,
+    "duration": 4.16
+  },
+  {
+    "text": "spot activity",
+    "start": 1827.52,
+    "duration": 4.8
+  },
+  {
+    "text": "like this specific nft drop or the btc",
+    "start": 1829.12,
+    "duration": 5.84
+  },
+  {
+    "text": "usct market that is moving really",
+    "start": 1832.32,
+    "duration": 4.719
+  },
+  {
+    "text": "quickly shouldn't impact fees for a",
+    "start": 1834.96,
+    "duration": 3.92
+  },
+  {
+    "text": "payment because they're not touching the",
+    "start": 1837.039,
+    "duration": 3.441
+  },
+  {
+    "text": "same state",
+    "start": 1838.88,
+    "duration": 2.48
+  },
+  {
+    "text": "um",
+    "start": 1840.48,
+    "duration": 1.919
+  },
+  {
+    "text": "and",
+    "start": 1841.36,
+    "duration": 2.319
+  },
+  {
+    "text": "this is something that we've been able",
+    "start": 1842.399,
+    "duration": 2.961
+  },
+  {
+    "text": "to observe on chain and i think we have",
+    "start": 1843.679,
+    "duration": 3.36
+  },
+  {
+    "text": "a really good design now that we can",
+    "start": 1845.36,
+    "duration": 3.199
+  },
+  {
+    "text": "move forward with",
+    "start": 1847.039,
+    "duration": 3.601
+  },
+  {
+    "text": "that's really interesting",
+    "start": 1848.559,
+    "duration": 3.761
+  },
+  {
+    "text": "it's really interesting",
+    "start": 1850.64,
+    "duration": 4.0
+  },
+  {
+    "text": "because right it would be pointless for",
+    "start": 1852.32,
+    "duration": 4.64
+  },
+  {
+    "text": "fees to rise globally right because of",
+    "start": 1854.64,
+    "duration": 5.039
+  },
+  {
+    "text": "one one activity on one part of the",
+    "start": 1856.96,
+    "duration": 4.48
+  },
+  {
+    "text": "state even though it's not really",
+    "start": 1859.679,
+    "duration": 3.36
+  },
+  {
+    "text": "touching anything so effectively what",
+    "start": 1861.44,
+    "duration": 4.56
+  },
+  {
+    "text": "we're seeing on chain is that um",
+    "start": 1863.039,
+    "duration": 5.76
+  },
+  {
+    "text": "limits for how much a single piece of",
+    "start": 1866.0,
+    "duration": 5.36
+  },
+  {
+    "text": "data can be written to those are being",
+    "start": 1868.799,
+    "duration": 3.36
+  },
+  {
+    "text": "hit",
+    "start": 1871.36,
+    "duration": 3.039
+  },
+  {
+    "text": "quite infrequently still but sometimes",
+    "start": 1872.159,
+    "duration": 4.801
+  },
+  {
+    "text": "but the rest of the block is not full so",
+    "start": 1874.399,
+    "duration": 4.081
+  },
+  {
+    "text": "all those other transactions shouldn't",
+    "start": 1876.96,
+    "duration": 3.599
+  },
+  {
+    "text": "see a fee increase only that specific",
+    "start": 1878.48,
+    "duration": 4.559
+  },
+  {
+    "text": "like lending market for whatever that",
+    "start": 1880.559,
+    "duration": 4.561
+  },
+  {
+    "text": "trade payer is or that radium ideo",
+    "start": 1883.039,
+    "duration": 5.52
+  },
+  {
+    "text": "that's just launching uh-huh",
+    "start": 1885.12,
+    "duration": 5.52
+  },
+  {
+    "text": "that's really interesting",
+    "start": 1888.559,
+    "duration": 3.521
+  },
+  {
+    "text": "yeah i mean that would that would help",
+    "start": 1890.64,
+    "duration": 3.759
+  },
+  {
+    "text": "so much",
+    "start": 1892.08,
+    "duration": 5.199
+  },
+  {
+    "text": "with uh with a lot of things but yeah",
+    "start": 1894.399,
+    "duration": 5.28
+  },
+  {
+    "text": "what i like about this is that it really",
+    "start": 1897.279,
+    "duration": 3.76
+  },
+  {
+    "text": "um i think",
+    "start": 1899.679,
+    "duration": 2.321
+  },
+  {
+    "text": "is",
+    "start": 1901.039,
+    "duration": 3.52
+  },
+  {
+    "text": "you know these are basically like the",
+    "start": 1902.0,
+    "duration": 5.039
+  },
+  {
+    "text": "the the last half of a percent of i",
+    "start": 1904.559,
+    "duration": 4.24
+  },
+  {
+    "text": "think development of",
+    "start": 1907.039,
+    "duration": 3.681
+  },
+  {
+    "text": "of how this blockchain should work is",
+    "start": 1908.799,
+    "duration": 3.921
+  },
+  {
+    "text": "happening right now and there's no way",
+    "start": 1910.72,
+    "duration": 3.6
+  },
+  {
+    "text": "we could have foreseen what the",
+    "start": 1912.72,
+    "duration": 4.0
+  },
+  {
+    "text": "solutions were two years ago when we",
+    "start": 1914.32,
+    "duration": 4.079
+  },
+  {
+    "text": "didn't see all this activity right when",
+    "start": 1916.72,
+    "duration": 3.36
+  },
+  {
+    "text": "we didn't see what kind of applications",
+    "start": 1918.399,
+    "duration": 3.681
+  },
+  {
+    "text": "users are building how they're how are",
+    "start": 1920.08,
+    "duration": 4.479
+  },
+  {
+    "text": "they using the chain so yeah we actually",
+    "start": 1922.08,
+    "duration": 4.16
+  },
+  {
+    "text": "i think get to solve the right problems",
+    "start": 1924.559,
+    "duration": 2.96
+  },
+  {
+    "text": "right now",
+    "start": 1926.24,
+    "duration": 3.36
+  },
+  {
+    "text": "interesting what what are you seeing in",
+    "start": 1927.519,
+    "duration": 3.52
+  },
+  {
+    "text": "terms of like",
+    "start": 1929.6,
+    "duration": 2.72
+  },
+  {
+    "text": "tooling",
+    "start": 1931.039,
+    "duration": 3.441
+  },
+  {
+    "text": "like more and more tooling like i know",
+    "start": 1932.32,
+    "duration": 3.52
+  },
+  {
+    "text": "you know that that obviously when you",
+    "start": 1934.48,
+    "duration": 2.96
+  },
+  {
+    "text": "got started it was you had to be pretty",
+    "start": 1935.84,
+    "duration": 4.0
+  },
+  {
+    "text": "close to the metal um and and you still",
+    "start": 1937.44,
+    "duration": 4.239
+  },
+  {
+    "text": "kind of do but like but",
+    "start": 1939.84,
+    "duration": 3.28
+  },
+  {
+    "text": "where where where are you seeing the",
+    "start": 1941.679,
+    "duration": 3.441
+  },
+  {
+    "text": "kind of tooling um growth because that's",
+    "start": 1943.12,
+    "duration": 3.76
+  },
+  {
+    "text": "obviously like a major thing that people",
+    "start": 1945.12,
+    "duration": 3.439
+  },
+  {
+    "text": "talk about with",
+    "start": 1946.88,
+    "duration": 3.519
+  },
+  {
+    "text": "any of these because these are novel",
+    "start": 1948.559,
+    "duration": 3.36
+  },
+  {
+    "text": "platforms and at the end of the day you",
+    "start": 1950.399,
+    "duration": 3.681
+  },
+  {
+    "text": "need the rituals and the tooling and the",
+    "start": 1951.919,
+    "duration": 3.921
+  },
+  {
+    "text": "libraries and all that",
+    "start": 1954.08,
+    "duration": 3.76
+  },
+  {
+    "text": "yeah we got i think",
+    "start": 1955.84,
+    "duration": 3.76
+  },
+  {
+    "text": "still i think made the best choice of",
+    "start": 1957.84,
+    "duration": 3.76
+  },
+  {
+    "text": "using rust as the primary language",
+    "start": 1959.6,
+    "duration": 3.52
+  },
+  {
+    "text": "because it's um",
+    "start": 1961.6,
+    "duration": 2.72
+  },
+  {
+    "text": "a very",
+    "start": 1963.12,
+    "duration": 3.2
+  },
+  {
+    "text": "rich expressive language it's a modern",
+    "start": 1964.32,
+    "duration": 4.64
+  },
+  {
+    "text": "language with a modern type system and",
+    "start": 1966.32,
+    "duration": 4.8
+  },
+  {
+    "text": "what i was waiting for is effectively",
+    "start": 1968.96,
+    "duration": 5.199
+  },
+  {
+    "text": "armani was this amazing developer not",
+    "start": 1971.12,
+    "duration": 5.679
+  },
+  {
+    "text": "part of solana but you know",
+    "start": 1974.159,
+    "duration": 5.441
+  },
+  {
+    "text": "working on the serum ecosystem to take",
+    "start": 1976.799,
+    "duration": 5.441
+  },
+  {
+    "text": "rust and then build the best application",
+    "start": 1979.6,
+    "duration": 4.559
+  },
+  {
+    "text": "environment for devs",
+    "start": 1982.24,
+    "duration": 2.799
+  },
+  {
+    "text": "um",
+    "start": 1984.159,
+    "duration": 2.4
+  },
+  {
+    "text": "and that happened over the last let's",
+    "start": 1985.039,
+    "duration": 4.0
+  },
+  {
+    "text": "say six months we went from having",
+    "start": 1986.559,
+    "duration": 4.641
+  },
+  {
+    "text": "people to kind of by hand write out",
+    "start": 1989.039,
+    "duration": 4.161
+  },
+  {
+    "text": "which accounts go where and things like",
+    "start": 1991.2,
+    "duration": 5.12
+  },
+  {
+    "text": "that to a very rich type system that is",
+    "start": 1993.2,
+    "duration": 4.719
+  },
+  {
+    "text": "extremely secure",
+    "start": 1996.32,
+    "duration": 3.44
+  },
+  {
+    "text": "gives you effectively type level",
+    "start": 1997.919,
+    "duration": 4.0
+  },
+  {
+    "text": "security which is as good as a formal",
+    "start": 1999.76,
+    "duration": 4.0
+  },
+  {
+    "text": "formally verified",
+    "start": 2001.919,
+    "duration": 3.12
+  },
+  {
+    "text": "in your in your smart contract",
+    "start": 2003.76,
+    "duration": 3.36
+  },
+  {
+    "text": "definitions and",
+    "start": 2005.039,
+    "duration": 4.64
+  },
+  {
+    "text": "makes it very easy to plug that into you",
+    "start": 2007.12,
+    "duration": 4.72
+  },
+  {
+    "text": "know javascript or client code and",
+    "start": 2009.679,
+    "duration": 4.88
+  },
+  {
+    "text": "rapidly build applications um",
+    "start": 2011.84,
+    "duration": 3.839
+  },
+  {
+    "text": "the other",
+    "start": 2014.559,
+    "duration": 3.201
+  },
+  {
+    "text": "that still does not is not gonna find",
+    "start": 2015.679,
+    "duration": 4.0
+  },
+  {
+    "text": "all the bugs or you know there's still",
+    "start": 2017.76,
+    "duration": 3.36
+  },
+  {
+    "text": "business logic bugs you still have to",
+    "start": 2019.679,
+    "duration": 4.561
+  },
+  {
+    "text": "worry about arithmetic bugs and um some",
+    "start": 2021.12,
+    "duration": 5.84
+  },
+  {
+    "text": "of those things can be detected by um",
+    "start": 2024.24,
+    "duration": 4.72
+  },
+  {
+    "text": "this really amazing team",
+    "start": 2026.96,
+    "duration": 4.319
+  },
+  {
+    "text": "that is building",
+    "start": 2028.96,
+    "duration": 5.04
+  },
+  {
+    "text": "effectively an automatic scanner for",
+    "start": 2031.279,
+    "duration": 5.361
+  },
+  {
+    "text": "vulnerabilities using lvm",
+    "start": 2034.0,
+    "duration": 5.12
+  },
+  {
+    "text": "super compilation so it kind of looks at",
+    "start": 2036.64,
+    "duration": 4.96
+  },
+  {
+    "text": "your program as a giant algebraic",
+    "start": 2039.12,
+    "duration": 4.32
+  },
+  {
+    "text": "function and then",
+    "start": 2041.6,
+    "duration": 4.079
+  },
+  {
+    "text": "tries to simulate it in every possible",
+    "start": 2043.44,
+    "duration": 5.52
+  },
+  {
+    "text": "uh way and see if it violates some some",
+    "start": 2045.679,
+    "duration": 6.16
+  },
+  {
+    "text": "assumptions about security and that's um",
+    "start": 2048.96,
+    "duration": 5.52
+  },
+  {
+    "text": "the combination of both of those i think",
+    "start": 2051.839,
+    "duration": 3.441
+  },
+  {
+    "text": "will",
+    "start": 2054.48,
+    "duration": 3.199
+  },
+  {
+    "text": "really allow people to write you know a",
+    "start": 2055.28,
+    "duration": 4.639
+  },
+  {
+    "text": "ton of you know rapidly develop very",
+    "start": 2057.679,
+    "duration": 3.92
+  },
+  {
+    "text": "secure smart contracts if both of those",
+    "start": 2059.919,
+    "duration": 4.321
+  },
+  {
+    "text": "tools are used",
+    "start": 2061.599,
+    "duration": 5.76
+  },
+  {
+    "text": "that's cool i'm glad to hear it um",
+    "start": 2064.24,
+    "duration": 5.679
+  },
+  {
+    "text": "with with um you know the the whatever",
+    "start": 2067.359,
+    "duration": 4.24
+  },
+  {
+    "text": "news stories in",
+    "start": 2069.919,
+    "duration": 3.2
+  },
+  {
+    "text": "the media are you know there's the",
+    "start": 2071.599,
+    "duration": 4.08
+  },
+  {
+    "text": "talent migration from web 2 to web 3.",
+    "start": 2073.119,
+    "duration": 3.841
+  },
+  {
+    "text": "i know",
+    "start": 2075.679,
+    "duration": 4.24
+  },
+  {
+    "text": "both solana and circle we're both hiring",
+    "start": 2076.96,
+    "duration": 4.56
+  },
+  {
+    "text": "a lot of really interesting people out",
+    "start": 2079.919,
+    "duration": 4.561
+  },
+  {
+    "text": "of like great web 2 companies so i i can",
+    "start": 2081.52,
+    "duration": 5.76
+  },
+  {
+    "text": "attest that is true that is happening",
+    "start": 2084.48,
+    "duration": 5.599
+  },
+  {
+    "text": "that is the biggest shift from last year",
+    "start": 2087.28,
+    "duration": 4.799
+  },
+  {
+    "text": "is that how many hires we're seeing",
+    "start": 2090.079,
+    "duration": 4.401
+  },
+  {
+    "text": "coming out of google facebook like these",
+    "start": 2092.079,
+    "duration": 4.961
+  },
+  {
+    "text": "big big companies absolutely yeah yeah",
+    "start": 2094.48,
+    "duration": 5.2
+  },
+  {
+    "text": "absolutely um we're seeing that at every",
+    "start": 2097.04,
+    "duration": 4.48
+  },
+  {
+    "text": "level from like individual engineers to",
+    "start": 2099.68,
+    "duration": 4.32
+  },
+  {
+    "text": "senior leaders to everything right so",
+    "start": 2101.52,
+    "duration": 4.72
+  },
+  {
+    "text": "i think that's a really huge leading",
+    "start": 2104.0,
+    "duration": 3.76
+  },
+  {
+    "text": "indicator of",
+    "start": 2106.24,
+    "duration": 3.28
+  },
+  {
+    "text": "you know how big this is going to be",
+    "start": 2107.76,
+    "duration": 4.0
+  },
+  {
+    "text": "right because i think you know we're all",
+    "start": 2109.52,
+    "duration": 4.24
+  },
+  {
+    "text": "aspiring to build the next great",
+    "start": 2111.76,
+    "duration": 4.24
+  },
+  {
+    "text": "internet you know kind of kind of",
+    "start": 2113.76,
+    "duration": 4.64
+  },
+  {
+    "text": "projects but um",
+    "start": 2116.0,
+    "duration": 4.0
+  },
+  {
+    "text": "on that note",
+    "start": 2118.4,
+    "duration": 3.439
+  },
+  {
+    "text": "i think one of the things that people",
+    "start": 2120.0,
+    "duration": 5.119
+  },
+  {
+    "text": "are are paying attention to are",
+    "start": 2121.839,
+    "duration": 5.121
+  },
+  {
+    "text": "you know when some",
+    "start": 2125.119,
+    "duration": 3.681
+  },
+  {
+    "text": "you know mainstream company i hate to",
+    "start": 2126.96,
+    "duration": 3.52
+  },
+  {
+    "text": "use that phrase but like some mainstream",
+    "start": 2128.8,
+    "duration": 2.72
+  },
+  {
+    "text": "company",
+    "start": 2130.48,
+    "duration": 2.56
+  },
+  {
+    "text": "decides",
+    "start": 2131.52,
+    "duration": 3.12
+  },
+  {
+    "text": "we're going to do something and we're",
+    "start": 2133.04,
+    "duration": 5.039
+  },
+  {
+    "text": "going to do it on you know xyx platform",
+    "start": 2134.64,
+    "duration": 5.199
+  },
+  {
+    "text": "or this platform and you know we're",
+    "start": 2138.079,
+    "duration": 4.081
+  },
+  {
+    "text": "seeing that like you know coachella or",
+    "start": 2139.839,
+    "duration": 5.601
+  },
+  {
+    "text": "whatever with with solana and and ftx",
+    "start": 2142.16,
+    "duration": 5.919
+  },
+  {
+    "text": "obviously as well but like",
+    "start": 2145.44,
+    "duration": 4.48
+  },
+  {
+    "text": "and and you probably know about a lot of",
+    "start": 2148.079,
+    "duration": 3.04
+  },
+  {
+    "text": "stuff that you can't talk about or",
+    "start": 2149.92,
+    "duration": 3.28
+  },
+  {
+    "text": "whatever but like um",
+    "start": 2151.119,
+    "duration": 4.401
+  },
+  {
+    "text": "are there are there categories like that",
+    "start": 2153.2,
+    "duration": 4.48
+  },
+  {
+    "text": "where you're kind of getting surprised",
+    "start": 2155.52,
+    "duration": 4.48
+  },
+  {
+    "text": "or whatever where you know there's just",
+    "start": 2157.68,
+    "duration": 5.2
+  },
+  {
+    "text": "developers or companies that are like we",
+    "start": 2160.0,
+    "duration": 5.359
+  },
+  {
+    "text": "did the research and you know you know",
+    "start": 2162.88,
+    "duration": 3.6
+  },
+  {
+    "text": "here's here's how we're thinking about",
+    "start": 2165.359,
+    "duration": 3.681
+  },
+  {
+    "text": "this yeah um",
+    "start": 2166.48,
+    "duration": 5.84
+  },
+  {
+    "text": "two surprises one is how fast the nft",
+    "start": 2169.04,
+    "duration": 4.559
+  },
+  {
+    "text": "kind of",
+    "start": 2172.32,
+    "duration": 2.0
+  },
+  {
+    "text": "how",
+    "start": 2173.599,
+    "duration": 2.801
+  },
+  {
+    "text": "quickly folks understood nfts at these",
+    "start": 2174.32,
+    "duration": 4.88
+  },
+  {
+    "text": "big companies and i think they're much",
+    "start": 2176.4,
+    "duration": 6.0
+  },
+  {
+    "text": "more comfortable with moving fast there",
+    "start": 2179.2,
+    "duration": 5.2
+  },
+  {
+    "text": "it seems less risky to them and the",
+    "start": 2182.4,
+    "duration": 5.199
+  },
+  {
+    "text": "other surprise was how hard it is for",
+    "start": 2184.4,
+    "duration": 5.6
+  },
+  {
+    "text": "financial institutions to get",
+    "start": 2187.599,
+    "duration": 4.321
+  },
+  {
+    "text": "set up something as simple as usdc",
+    "start": 2190.0,
+    "duration": 3.52
+  },
+  {
+    "text": "deposit and withdrawal",
+    "start": 2191.92,
+    "duration": 3.04
+  },
+  {
+    "text": "like",
+    "start": 2193.52,
+    "duration": 3.52
+  },
+  {
+    "text": "and that that to me is like the the",
+    "start": 2194.96,
+    "duration": 3.6
+  },
+  {
+    "text": "other side of it is that like something",
+    "start": 2197.04,
+    "duration": 3.44
+  },
+  {
+    "text": "that i feel like is obvious that should",
+    "start": 2198.56,
+    "duration": 6.32
+  },
+  {
+    "text": "be rapidly growing in in fintech is hard",
+    "start": 2200.48,
+    "duration": 6.48
+  },
+  {
+    "text": "because of regulatory uncertainty we've",
+    "start": 2204.88,
+    "duration": 4.479
+  },
+  {
+    "text": "got good apis right",
+    "start": 2206.96,
+    "duration": 4.56
+  },
+  {
+    "text": "like it's very simple to do and i think",
+    "start": 2209.359,
+    "duration": 4.401
+  },
+  {
+    "text": "would be like a very simple step forward",
+    "start": 2211.52,
+    "duration": 3.36
+  },
+  {
+    "text": "right for",
+    "start": 2213.76,
+    "duration": 4.24
+  },
+  {
+    "text": "you know a big bang to do that um",
+    "start": 2214.88,
+    "duration": 6.88
+  },
+  {
+    "text": "the the nft thing is is both surprising",
+    "start": 2218.0,
+    "duration": 5.04
+  },
+  {
+    "text": "because i think",
+    "start": 2221.76,
+    "duration": 2.96
+  },
+  {
+    "text": "there's a lot of uh",
+    "start": 2223.04,
+    "duration": 3.84
+  },
+  {
+    "text": "there's a lot of folks sincerely in web",
+    "start": 2224.72,
+    "duration": 4.32
+  },
+  {
+    "text": "2 that are focused on",
+    "start": 2226.88,
+    "duration": 5.04
+  },
+  {
+    "text": "enabling small long tail creators to",
+    "start": 2229.04,
+    "duration": 4.0
+  },
+  {
+    "text": "make money",
+    "start": 2231.92,
+    "duration": 3.199
+  },
+  {
+    "text": "um",
+    "start": 2233.04,
+    "duration": 4.799
+  },
+  {
+    "text": "there is that's effectively what i think",
+    "start": 2235.119,
+    "duration": 5.201
+  },
+  {
+    "text": "a lot of kpis for a lot of them are like",
+    "start": 2237.839,
+    "duration": 5.201
+  },
+  {
+    "text": "when i'm looking at my ecosystem right",
+    "start": 2240.32,
+    "duration": 4.96
+  },
+  {
+    "text": "how many of these creators are actually",
+    "start": 2243.04,
+    "duration": 4.319
+  },
+  {
+    "text": "able to financially support themselves",
+    "start": 2245.28,
+    "duration": 3.92
+  },
+  {
+    "text": "from the activity in these platforms so",
+    "start": 2247.359,
+    "duration": 4.24
+  },
+  {
+    "text": "when they see an nft as an opportunity",
+    "start": 2249.2,
+    "duration": 3.68
+  },
+  {
+    "text": "for",
+    "start": 2251.599,
+    "duration": 3.601
+  },
+  {
+    "text": "an individual creator to publish some",
+    "start": 2252.88,
+    "duration": 4.08
+  },
+  {
+    "text": "digital items which",
+    "start": 2255.2,
+    "duration": 3.52
+  },
+  {
+    "text": "you know generate revenue for them you",
+    "start": 2256.96,
+    "duration": 3.44
+  },
+  {
+    "text": "know monetize their work",
+    "start": 2258.72,
+    "duration": 4.08
+  },
+  {
+    "text": "that seems like a very aligned to what a",
+    "start": 2260.4,
+    "duration": 4.56
+  },
+  {
+    "text": "lot of web 2 companies want to do that's",
+    "start": 2262.8,
+    "duration": 4.08
+  },
+  {
+    "text": "realigned to with us and everything that",
+    "start": 2264.96,
+    "duration": 3.92
+  },
+  {
+    "text": "we want to do right we want to get",
+    "start": 2266.88,
+    "duration": 4.08
+  },
+  {
+    "text": "artists that are musicians that are you",
+    "start": 2268.88,
+    "duration": 4.32
+  },
+  {
+    "text": "know making nothing from spotify that",
+    "start": 2270.96,
+    "duration": 4.24
+  },
+  {
+    "text": "are able to generate like you know two",
+    "start": 2273.2,
+    "duration": 3.6
+  },
+  {
+    "text": "three years worth of their income from a",
+    "start": 2275.2,
+    "duration": 4.159
+  },
+  {
+    "text": "single nft job because that's a direct",
+    "start": 2276.8,
+    "duration": 5.2
+  },
+  {
+    "text": "sale from that artist to their fans",
+    "start": 2279.359,
+    "duration": 5.521
+  },
+  {
+    "text": "right that's a very powerful thing",
+    "start": 2282.0,
+    "duration": 4.24
+  },
+  {
+    "text": "yeah it is",
+    "start": 2284.88,
+    "duration": 2.4
+  },
+  {
+    "text": "um",
+    "start": 2286.24,
+    "duration": 2.56
+  },
+  {
+    "text": "i want to come back to an ecosystem",
+    "start": 2287.28,
+    "duration": 3.68
+  },
+  {
+    "text": "topic which is sort of validator",
+    "start": 2288.8,
+    "duration": 4.64
+  },
+  {
+    "text": "validator node growth you know what what",
+    "start": 2290.96,
+    "duration": 4.0
+  },
+  {
+    "text": "do you what are you kind of seeing",
+    "start": 2293.44,
+    "duration": 4.08
+  },
+  {
+    "text": "happen with the network itself",
+    "start": 2294.96,
+    "duration": 4.32
+  },
+  {
+    "text": "um",
+    "start": 2297.52,
+    "duration": 3.92
+  },
+  {
+    "text": "when we started 40 validators i think",
+    "start": 2299.28,
+    "duration": 3.52
+  },
+  {
+    "text": "there's",
+    "start": 2301.44,
+    "duration": 2.96
+  },
+  {
+    "text": "1500",
+    "start": 2302.8,
+    "duration": 4.64
+  },
+  {
+    "text": "block producers and like 1 300 like",
+    "start": 2304.4,
+    "duration": 4.56
+  },
+  {
+    "text": "other nodes in the networks i think",
+    "start": 2307.44,
+    "duration": 3.919
+  },
+  {
+    "text": "we're like 2800 i think",
+    "start": 2308.96,
+    "duration": 4.72
+  },
+  {
+    "text": "basically uh i think",
+    "start": 2311.359,
+    "duration": 6.641
+  },
+  {
+    "text": "is at 5 000. so we're over 50 percent",
+    "start": 2313.68,
+    "duration": 7.12
+  },
+  {
+    "text": "that's awesome yeah um",
+    "start": 2318.0,
+    "duration": 4.0
+  },
+  {
+    "text": "yeah",
+    "start": 2320.8,
+    "duration": 2.24
+  },
+  {
+    "text": "the",
+    "start": 2322.0,
+    "duration": 3.44
+  },
+  {
+    "text": "other like so",
+    "start": 2323.04,
+    "duration": 4.4
+  },
+  {
+    "text": "both are important you know final the",
+    "start": 2325.44,
+    "duration": 4.08
+  },
+  {
+    "text": "actual security the network depends on",
+    "start": 2327.44,
+    "duration": 3.919
+  },
+  {
+    "text": "at least one of them being honest and",
+    "start": 2329.52,
+    "duration": 3.92
+  },
+  {
+    "text": "providing data availability when",
+    "start": 2331.359,
+    "duration": 4.321
+  },
+  {
+    "text": "something catastrophic happens yeah so",
+    "start": 2333.44,
+    "duration": 4.88
+  },
+  {
+    "text": "as long as we can find one and the more",
+    "start": 2335.68,
+    "duration": 3.919
+  },
+  {
+    "text": "you have the more likely it is that",
+    "start": 2338.32,
+    "duration": 2.56
+  },
+  {
+    "text": "you'll find one",
+    "start": 2339.599,
+    "duration": 3.681
+  },
+  {
+    "text": "and that probability becomes so high",
+    "start": 2340.88,
+    "duration": 5.199
+  },
+  {
+    "text": "that at some point you kind of at a gut",
+    "start": 2343.28,
+    "duration": 5.36
+  },
+  {
+    "text": "level feel like okay this is never this",
+    "start": 2346.079,
+    "duration": 4.641
+  },
+  {
+    "text": "data's always going to be here i can",
+    "start": 2348.64,
+    "duration": 4.479
+  },
+  {
+    "text": "trust the system even if yellowstone",
+    "start": 2350.72,
+    "duration": 4.399
+  },
+  {
+    "text": "blows up right",
+    "start": 2353.119,
+    "duration": 2.641
+  },
+  {
+    "text": "and",
+    "start": 2355.119,
+    "duration": 2.96
+  },
+  {
+    "text": "this is when that mental shift happens",
+    "start": 2355.76,
+    "duration": 3.92
+  },
+  {
+    "text": "for crypto people i feel like it's",
+    "start": 2358.079,
+    "duration": 3.76
+  },
+  {
+    "text": "somewhere around a thousand nodes yeah",
+    "start": 2359.68,
+    "duration": 4.48
+  },
+  {
+    "text": "maybe a few hundred to a thousand but",
+    "start": 2361.839,
+    "duration": 4.24
+  },
+  {
+    "text": "i don't know when that mental ship will",
+    "start": 2364.16,
+    "duration": 4.8
+  },
+  {
+    "text": "happen for like the cto of i don't know",
+    "start": 2366.079,
+    "duration": 5.681
+  },
+  {
+    "text": "bank of america right right right",
+    "start": 2368.96,
+    "duration": 4.879
+  },
+  {
+    "text": "well i mean i got to tell you like um",
+    "start": 2371.76,
+    "duration": 5.68
+  },
+  {
+    "text": "like you know like for us right",
+    "start": 2373.839,
+    "duration": 5.28
+  },
+  {
+    "text": "with usdc",
+    "start": 2377.44,
+    "duration": 3.84
+  },
+  {
+    "text": "you know as as you know we're we're",
+    "start": 2379.119,
+    "duration": 3.761
+  },
+  {
+    "text": "preparing to become like a national",
+    "start": 2381.28,
+    "duration": 4.64
+  },
+  {
+    "text": "digital currency bank and and and we",
+    "start": 2382.88,
+    "duration": 4.8
+  },
+  {
+    "text": "you know we're you know we're going to",
+    "start": 2385.92,
+    "duration": 4.24
+  },
+  {
+    "text": "be working with you know",
+    "start": 2387.68,
+    "duration": 4.64
+  },
+  {
+    "text": "our regulatory counterparts",
+    "start": 2390.16,
+    "duration": 5.04
+  },
+  {
+    "text": "and you know the the you know the u.s",
+    "start": 2392.32,
+    "duration": 4.64
+  },
+  {
+    "text": "treasury department or you know whatever",
+    "start": 2395.2,
+    "duration": 3.28
+  },
+  {
+    "text": "when they think about like",
+    "start": 2396.96,
+    "duration": 3.84
+  },
+  {
+    "text": "a dollar market infrastructure",
+    "start": 2398.48,
+    "duration": 5.119
+  },
+  {
+    "text": "and they're asking about you know",
+    "start": 2400.8,
+    "duration": 4.88
+  },
+  {
+    "text": "you know reliability and they're asking",
+    "start": 2403.599,
+    "duration": 4.161
+  },
+  {
+    "text": "about security and they're asking about",
+    "start": 2405.68,
+    "duration": 4.399
+  },
+  {
+    "text": "you know uptime and they're asking about",
+    "start": 2407.76,
+    "duration": 3.599
+  },
+  {
+    "text": "you know",
+    "start": 2410.079,
+    "duration": 3.681
+  },
+  {
+    "text": "you know what happens if you know all",
+    "start": 2411.359,
+    "duration": 4.641
+  },
+  {
+    "text": "these things what happens if",
+    "start": 2413.76,
+    "duration": 4.319
+  },
+  {
+    "text": "russia decides to attack",
+    "start": 2416.0,
+    "duration": 3.839
+  },
+  {
+    "text": "the network to disrupt the dollar or",
+    "start": 2418.079,
+    "duration": 3.121
+  },
+  {
+    "text": "whatever you know these are like real",
+    "start": 2419.839,
+    "duration": 2.801
+  },
+  {
+    "text": "conversations i'm just giving you a",
+    "start": 2421.2,
+    "duration": 3.28
+  },
+  {
+    "text": "little you know inside baseball here but",
+    "start": 2422.64,
+    "duration": 3.36
+  },
+  {
+    "text": "no but like these are these are real",
+    "start": 2424.48,
+    "duration": 4.16
+  },
+  {
+    "text": "things that have to be thought about",
+    "start": 2426.0,
+    "duration": 4.56
+  },
+  {
+    "text": "maybe we could do this on air so to",
+    "start": 2428.64,
+    "duration": 4.56
+  },
+  {
+    "text": "speak but help me make the case",
+    "start": 2430.56,
+    "duration": 3.84
+  },
+  {
+    "text": "for",
+    "start": 2433.2,
+    "duration": 2.399
+  },
+  {
+    "text": "why",
+    "start": 2434.4,
+    "duration": 3.6
+  },
+  {
+    "text": "three years from now",
+    "start": 2435.599,
+    "duration": 4.321
+  },
+  {
+    "text": "or five years from now",
+    "start": 2438.0,
+    "duration": 4.079
+  },
+  {
+    "text": "when maybe there's a trillion usdc in",
+    "start": 2439.92,
+    "duration": 4.56
+  },
+  {
+    "text": "circulation and there's you know and and",
+    "start": 2442.079,
+    "duration": 5.441
+  },
+  {
+    "text": "there's like this widespread adoption",
+    "start": 2444.48,
+    "duration": 3.92
+  },
+  {
+    "text": "why",
+    "start": 2447.52,
+    "duration": 3.12
+  },
+  {
+    "text": "this is going to be the most secure",
+    "start": 2448.4,
+    "duration": 4.88
+  },
+  {
+    "text": "infrastructure in the world",
+    "start": 2450.64,
+    "duration": 4.32
+  },
+  {
+    "text": "so i think",
+    "start": 2453.28,
+    "duration": 3.6
+  },
+  {
+    "text": "because the fundamental premise of what",
+    "start": 2454.96,
+    "duration": 4.48
+  },
+  {
+    "text": "a layer one does is a peer-to-peer",
+    "start": 2456.88,
+    "duration": 4.08
+  },
+  {
+    "text": "network and",
+    "start": 2459.44,
+    "duration": 4.8
+  },
+  {
+    "text": "this is what you know the really the",
+    "start": 2460.96,
+    "duration": 5.119
+  },
+  {
+    "text": "simple examples actually using something",
+    "start": 2464.24,
+    "duration": 4.8
+  },
+  {
+    "text": "like usdc so if i have my keys and i",
+    "start": 2466.079,
+    "duration": 4.961
+  },
+  {
+    "text": "have custody of my keys and i can keep",
+    "start": 2469.04,
+    "duration": 3.2
+  },
+  {
+    "text": "that secure",
+    "start": 2471.04,
+    "duration": 3.92
+  },
+  {
+    "text": "and circle has a single node that they",
+    "start": 2472.24,
+    "duration": 4.72
+  },
+  {
+    "text": "can keep secure those both of those are",
+    "start": 2474.96,
+    "duration": 4.48
+  },
+  {
+    "text": "solvable problems you guys",
+    "start": 2476.96,
+    "duration": 4.159
+  },
+  {
+    "text": "hired amazing engineers that can keep",
+    "start": 2479.44,
+    "duration": 3.84
+  },
+  {
+    "text": "that note secure",
+    "start": 2481.119,
+    "duration": 4.401
+  },
+  {
+    "text": "i i can use you know",
+    "start": 2483.28,
+    "duration": 4.16
+  },
+  {
+    "text": "cold storage ledgers right there's a",
+    "start": 2485.52,
+    "duration": 3.68
+  },
+  {
+    "text": "bunch of hardware devices i can use that",
+    "start": 2487.44,
+    "duration": 3.76
+  },
+  {
+    "text": "could keep my keys secure",
+    "start": 2489.2,
+    "duration": 4.399
+  },
+  {
+    "text": "the rest of the network can be totally",
+    "start": 2491.2,
+    "duration": 4.159
+  },
+  {
+    "text": "corrupted right so that's sort of the",
+    "start": 2493.599,
+    "duration": 3.441
+  },
+  {
+    "text": "ultimate fault tolerance right right",
+    "start": 2495.359,
+    "duration": 4.881
+  },
+  {
+    "text": "yeah yeah so so that in that case the",
+    "start": 2497.04,
+    "duration": 5.36
+  },
+  {
+    "text": "money is in the in your bank",
+    "start": 2500.24,
+    "duration": 3.76
+  },
+  {
+    "text": "right the rest of the network can be",
+    "start": 2502.4,
+    "duration": 3.28
+  },
+  {
+    "text": "fully corrupted there's still someone",
+    "start": 2504.0,
+    "duration": 3.92
+  },
+  {
+    "text": "else's database with those dollars right",
+    "start": 2505.68,
+    "duration": 4.159
+  },
+  {
+    "text": "then then this this",
+    "start": 2507.92,
+    "duration": 3.76
+  },
+  {
+    "text": "this this kind of the transaction",
+    "start": 2509.839,
+    "duration": 3.841
+  },
+  {
+    "text": "integrity and and and then and then the",
+    "start": 2511.68,
+    "duration": 3.439
+  },
+  {
+    "text": "actual",
+    "start": 2513.68,
+    "duration": 3.679
+  },
+  {
+    "text": "proof of tokens right you you have at a",
+    "start": 2515.119,
+    "duration": 4.641
+  },
+  {
+    "text": "minimum you know i i buy that",
+    "start": 2517.359,
+    "duration": 3.841
+  },
+  {
+    "text": "um",
+    "start": 2519.76,
+    "duration": 3.68
+  },
+  {
+    "text": "but then there's but that's good enough",
+    "start": 2521.2,
+    "duration": 4.639
+  },
+  {
+    "text": "for something these guarantees that",
+    "start": 2523.44,
+    "duration": 4.399
+  },
+  {
+    "text": "nobody can convince you that i spent my",
+    "start": 2525.839,
+    "duration": 3.76
+  },
+  {
+    "text": "dollars right and that that's a very",
+    "start": 2527.839,
+    "duration": 3.601
+  },
+  {
+    "text": "that's that level of security is very",
+    "start": 2529.599,
+    "duration": 3.841
+  },
+  {
+    "text": "important to establish because",
+    "start": 2531.44,
+    "duration": 3.28
+  },
+  {
+    "text": "then you can start talking about",
+    "start": 2533.44,
+    "duration": 3.36
+  },
+  {
+    "text": "everything else well what happens if",
+    "start": 2534.72,
+    "duration": 3.92
+  },
+  {
+    "text": "there's a chain split how do we deal",
+    "start": 2536.8,
+    "duration": 3.84
+  },
+  {
+    "text": "with that right like if there's",
+    "start": 2538.64,
+    "duration": 4.24
+  },
+  {
+    "text": "now you know russia was able to",
+    "start": 2540.64,
+    "duration": 3.76
+  },
+  {
+    "text": "compromise a bunch of nodes and they",
+    "start": 2542.88,
+    "duration": 3.6
+  },
+  {
+    "text": "created a chain split and now there's",
+    "start": 2544.4,
+    "duration": 3.919
+  },
+  {
+    "text": "one ledger that circle accepted with",
+    "start": 2546.48,
+    "duration": 4.4
+  },
+  {
+    "text": "usdc transfers and another one",
+    "start": 2548.319,
+    "duration": 5.161
+  },
+  {
+    "text": "but that those processes and",
+    "start": 2550.88,
+    "duration": 5.199
+  },
+  {
+    "text": "reconciliation right and the amount of",
+    "start": 2553.48,
+    "duration": 4.28
+  },
+  {
+    "text": "security and insurance that you need to",
+    "start": 2556.079,
+    "duration": 3.681
+  },
+  {
+    "text": "cover those right based on what amounts",
+    "start": 2557.76,
+    "duration": 5.2
+  },
+  {
+    "text": "are at risk those are finite computable",
+    "start": 2559.76,
+    "duration": 5.12
+  },
+  {
+    "text": "numbers we can solve that right we can",
+    "start": 2562.96,
+    "duration": 4.159
+  },
+  {
+    "text": "start solving for those and then seeing",
+    "start": 2564.88,
+    "duration": 4.479
+  },
+  {
+    "text": "what is the cost of using the technology",
+    "start": 2567.119,
+    "duration": 3.761
+  },
+  {
+    "text": "what are the risk of that happening",
+    "start": 2569.359,
+    "duration": 3.361
+  },
+  {
+    "text": "right and how do you mitigate against",
+    "start": 2570.88,
+    "duration": 2.959
+  },
+  {
+    "text": "those um",
+    "start": 2572.72,
+    "duration": 3.04
+  },
+  {
+    "text": "and fundamentally what we're doing at",
+    "start": 2573.839,
+    "duration": 4.24
+  },
+  {
+    "text": "the technology level is if we make the",
+    "start": 2575.76,
+    "duration": 3.52
+  },
+  {
+    "text": "system",
+    "start": 2578.079,
+    "duration": 3.441
+  },
+  {
+    "text": "cheaper and faster right and the next",
+    "start": 2579.28,
+    "duration": 4.96
+  },
+  {
+    "text": "generation pci 5 those all those things",
+    "start": 2581.52,
+    "duration": 5.28
+  },
+  {
+    "text": "become online then the number of nodes",
+    "start": 2584.24,
+    "duration": 4.48
+  },
+  {
+    "text": "the number of block producers everything",
+    "start": 2586.8,
+    "duration": 4.72
+  },
+  {
+    "text": "else can double or quadruple and then",
+    "start": 2588.72,
+    "duration": 4.639
+  },
+  {
+    "text": "those attacks become much much harder to",
+    "start": 2591.52,
+    "duration": 2.799
+  },
+  {
+    "text": "pull off",
+    "start": 2593.359,
+    "duration": 3.281
+  },
+  {
+    "text": "and effectively that means the system is",
+    "start": 2594.319,
+    "duration": 4.161
+  },
+  {
+    "text": "cheaper to use it's more trustworthy",
+    "start": 2596.64,
+    "duration": 3.439
+  },
+  {
+    "text": "yeah and yeah",
+    "start": 2598.48,
+    "duration": 4.0
+  },
+  {
+    "text": "where that mental shift happens for",
+    "start": 2600.079,
+    "duration": 5.441
+  },
+  {
+    "text": "the bank of america cto i don't know",
+    "start": 2602.48,
+    "duration": 4.96
+  },
+  {
+    "text": "and you know like how about the bank of",
+    "start": 2605.52,
+    "duration": 4.16
+  },
+  {
+    "text": "the bank of bank of circle cta right",
+    "start": 2607.44,
+    "duration": 4.879
+  },
+  {
+    "text": "right so that that's um",
+    "start": 2609.68,
+    "duration": 4.24
+  },
+  {
+    "text": "those are those are questions that i",
+    "start": 2612.319,
+    "duration": 3.441
+  },
+  {
+    "text": "feel like we should be asking now and",
+    "start": 2613.92,
+    "duration": 3.6
+  },
+  {
+    "text": "getting into serious conversations with",
+    "start": 2615.76,
+    "duration": 3.92
+  },
+  {
+    "text": "those projects yeah and doing the",
+    "start": 2617.52,
+    "duration": 4.72
+  },
+  {
+    "text": "analysis and just and seeing where the",
+    "start": 2619.68,
+    "duration": 4.72
+  },
+  {
+    "text": "weaknesses are right now and how we can",
+    "start": 2622.24,
+    "duration": 3.599
+  },
+  {
+    "text": "improve them",
+    "start": 2624.4,
+    "duration": 2.4
+  },
+  {
+    "text": "yeah",
+    "start": 2625.839,
+    "duration": 3.76
+  },
+  {
+    "text": "yeah those are those are those are",
+    "start": 2626.8,
+    "duration": 4.4
+  },
+  {
+    "text": "not only the right conversation to be",
+    "start": 2629.599,
+    "duration": 4.561
+  },
+  {
+    "text": "having but they are happening i think as",
+    "start": 2631.2,
+    "duration": 5.2
+  },
+  {
+    "text": "as as as more and more people start to",
+    "start": 2634.16,
+    "duration": 4.56
+  },
+  {
+    "text": "accept that this",
+    "start": 2636.4,
+    "duration": 4.64
+  },
+  {
+    "text": "this is gonna this is gonna you know get",
+    "start": 2638.72,
+    "duration": 5.119
+  },
+  {
+    "text": "get internet scale um it's pretty pretty",
+    "start": 2641.04,
+    "duration": 5.6
+  },
+  {
+    "text": "uh pretty exciting um",
+    "start": 2643.839,
+    "duration": 5.28
+  },
+  {
+    "text": "awesome um",
+    "start": 2646.64,
+    "duration": 4.8
+  },
+  {
+    "text": "when you think about um",
+    "start": 2649.119,
+    "duration": 5.041
+  },
+  {
+    "text": "you know what you're most excited about",
+    "start": 2651.44,
+    "duration": 5.36
+  },
+  {
+    "text": "um in the next year like looking back",
+    "start": 2654.16,
+    "duration": 4.159
+  },
+  {
+    "text": "you got a year what you know when you",
+    "start": 2656.8,
+    "duration": 3.12
+  },
+  {
+    "text": "think about the next year",
+    "start": 2658.319,
+    "duration": 2.961
+  },
+  {
+    "text": "um",
+    "start": 2659.92,
+    "duration": 2.88
+  },
+  {
+    "text": "where do you know if if we're talking",
+    "start": 2661.28,
+    "duration": 2.559
+  },
+  {
+    "text": "again in 12 months then i'm going to",
+    "start": 2662.8,
+    "duration": 2.16
+  },
+  {
+    "text": "make sure i schedule another one of",
+    "start": 2663.839,
+    "duration": 3.921
+  },
+  {
+    "text": "these in 12 months but um",
+    "start": 2664.96,
+    "duration": 5.119
+  },
+  {
+    "text": "uh but you know what do you what are you",
+    "start": 2667.76,
+    "duration": 4.24
+  },
+  {
+    "text": "most excited about",
+    "start": 2670.079,
+    "duration": 2.961
+  },
+  {
+    "text": "um",
+    "start": 2672.0,
+    "duration": 3.839
+  },
+  {
+    "text": "so the kind of the thing that we're",
+    "start": 2673.04,
+    "duration": 5.2
+  },
+  {
+    "text": "actively trying to enable is all these",
+    "start": 2675.839,
+    "duration": 4.321
+  },
+  {
+    "text": "new entrepreneurs to launch their",
+    "start": 2678.24,
+    "duration": 2.96
+  },
+  {
+    "text": "projects",
+    "start": 2680.16,
+    "duration": 2.56
+  },
+  {
+    "text": "launch their products",
+    "start": 2681.2,
+    "duration": 2.96
+  },
+  {
+    "text": "that is the most important thing that",
+    "start": 2682.72,
+    "duration": 2.96
+  },
+  {
+    "text": "we're working on we're obviously talking",
+    "start": 2684.16,
+    "duration": 3.84
+  },
+  {
+    "text": "to bigger companies and those and",
+    "start": 2685.68,
+    "duration": 4.24
+  },
+  {
+    "text": "helping them make their technology",
+    "start": 2688.0,
+    "duration": 4.48
+  },
+  {
+    "text": "choices and things like that but um what",
+    "start": 2689.92,
+    "duration": 4.96
+  },
+  {
+    "text": "i want to see is you know",
+    "start": 2692.48,
+    "duration": 4.96
+  },
+  {
+    "text": "if we have a thousand us if we actually",
+    "start": 2694.88,
+    "duration": 4.4
+  },
+  {
+    "text": "hit a thousand",
+    "start": 2697.44,
+    "duration": 3.679
+  },
+  {
+    "text": "teams building something in this",
+    "start": 2699.28,
+    "duration": 4.48
+  },
+  {
+    "text": "hackathon ten thousand right like can we",
+    "start": 2701.119,
+    "duration": 4.161
+  },
+  {
+    "text": "make this even bigger",
+    "start": 2703.76,
+    "duration": 3.839
+  },
+  {
+    "text": "yeah because if that's happening right",
+    "start": 2705.28,
+    "duration": 4.24
+  },
+  {
+    "text": "if you actually get to a point where",
+    "start": 2707.599,
+    "duration": 4.24
+  },
+  {
+    "text": "there's thousands of devs building",
+    "start": 2709.52,
+    "duration": 4.16
+  },
+  {
+    "text": "something then",
+    "start": 2711.839,
+    "duration": 3.601
+  },
+  {
+    "text": "the 100 million users are just around",
+    "start": 2713.68,
+    "duration": 3.84
+  },
+  {
+    "text": "the corner right you cannot stop that",
+    "start": 2715.44,
+    "duration": 4.08
+  },
+  {
+    "text": "wave",
+    "start": 2717.52,
+    "duration": 3.92
+  },
+  {
+    "text": "like absolutely we can build products",
+    "start": 2719.52,
+    "duration": 4.319
+  },
+  {
+    "text": "right internally and we do sometimes um",
+    "start": 2721.44,
+    "duration": 4.56
+  },
+  {
+    "text": "but that's just maybe two three products",
+    "start": 2723.839,
+    "duration": 4.24
+  },
+  {
+    "text": "a year right multiply that by a thousand",
+    "start": 2726.0,
+    "duration": 3.44
+  },
+  {
+    "text": "that's when you get into something",
+    "start": 2728.079,
+    "duration": 3.361
+  },
+  {
+    "text": "interesting right yeah",
+    "start": 2729.44,
+    "duration": 3.04
+  },
+  {
+    "text": "yeah",
+    "start": 2731.44,
+    "duration": 3.12
+  },
+  {
+    "text": "no i i think that's right i i think",
+    "start": 2732.48,
+    "duration": 4.16
+  },
+  {
+    "text": "that's right um",
+    "start": 2734.56,
+    "duration": 3.279
+  },
+  {
+    "text": "i think",
+    "start": 2736.64,
+    "duration": 3.199
+  },
+  {
+    "text": "i i i like to",
+    "start": 2737.839,
+    "duration": 3.441
+  },
+  {
+    "text": "you know one of the things i like to",
+    "start": 2739.839,
+    "duration": 3.041
+  },
+  {
+    "text": "sort of say is",
+    "start": 2741.28,
+    "duration": 3.28
+  },
+  {
+    "text": "a lot of times people when they think",
+    "start": 2742.88,
+    "duration": 4.32
+  },
+  {
+    "text": "about you know whatever usdc",
+    "start": 2744.56,
+    "duration": 4.32
+  },
+  {
+    "text": "specifically right it's like oh okay",
+    "start": 2747.2,
+    "duration": 3.76
+  },
+  {
+    "text": "this is gonna make you know faster",
+    "start": 2748.88,
+    "duration": 3.68
+  },
+  {
+    "text": "cheaper more secure payments or whatever",
+    "start": 2750.96,
+    "duration": 3.76
+  },
+  {
+    "text": "like i mean yes yes but that's not the",
+    "start": 2752.56,
+    "duration": 3.759
+  },
+  {
+    "text": "point the point is like",
+    "start": 2754.72,
+    "duration": 3.44
+  },
+  {
+    "text": "programmable dollars on the internet the",
+    "start": 2756.319,
+    "duration": 3.76
+  },
+  {
+    "text": "point is that this is like composable",
+    "start": 2758.16,
+    "duration": 4.4
+  },
+  {
+    "text": "into any kind of application and i'm",
+    "start": 2760.079,
+    "duration": 3.28
+  },
+  {
+    "text": "like",
+    "start": 2762.56,
+    "duration": 2.96
+  },
+  {
+    "text": "we don't actually know what people are",
+    "start": 2763.359,
+    "duration": 4.641
+  },
+  {
+    "text": "gonna invent like we just don't know",
+    "start": 2765.52,
+    "duration": 4.079
+  },
+  {
+    "text": "like the creativity that people are",
+    "start": 2768.0,
+    "duration": 2.8
+  },
+  {
+    "text": "gonna have",
+    "start": 2769.599,
+    "duration": 2.081
+  },
+  {
+    "text": "and",
+    "start": 2770.8,
+    "duration": 2.72
+  },
+  {
+    "text": "and and and when you think about all the",
+    "start": 2771.68,
+    "duration": 3.919
+  },
+  {
+    "text": "other things that people are creating",
+    "start": 2773.52,
+    "duration": 4.88
+  },
+  {
+    "text": "that then this can kind of interact with",
+    "start": 2775.599,
+    "duration": 4.48
+  },
+  {
+    "text": "that's what i'm most excited about i'm",
+    "start": 2778.4,
+    "duration": 3.84
+  },
+  {
+    "text": "excited about what i don't know like",
+    "start": 2780.079,
+    "duration": 3.361
+  },
+  {
+    "text": "what i say",
+    "start": 2782.24,
+    "duration": 4.48
+  },
+  {
+    "text": "you know and and um and so i think a a",
+    "start": 2783.44,
+    "duration": 5.04
+  },
+  {
+    "text": "big part of our jobs right it's just",
+    "start": 2786.72,
+    "duration": 4.08
+  },
+  {
+    "text": "like just getting people to see that",
+    "start": 2788.48,
+    "duration": 3.839
+  },
+  {
+    "text": "they have these tools and they have",
+    "start": 2790.8,
+    "duration": 4.559
+  },
+  {
+    "text": "these capabilities and you know i i",
+    "start": 2792.319,
+    "duration": 6.081
+  },
+  {
+    "text": "think about usdc is like it's the dollar",
+    "start": 2795.359,
+    "duration": 6.0
+  },
+  {
+    "text": "with internet superpowers um and you",
+    "start": 2798.4,
+    "duration": 4.0
+  },
+  {
+    "text": "know",
+    "start": 2801.359,
+    "duration": 2.641
+  },
+  {
+    "text": "what what what can you build with that",
+    "start": 2802.4,
+    "duration": 3.199
+  },
+  {
+    "text": "you know and and what you can build with",
+    "start": 2804.0,
+    "duration": 3.92
+  },
+  {
+    "text": "that and software but anyway",
+    "start": 2805.599,
+    "duration": 4.881
+  },
+  {
+    "text": "very cool stuff totally um",
+    "start": 2807.92,
+    "duration": 5.12
+  },
+  {
+    "text": "great to great to catch up and i'm glad",
+    "start": 2810.48,
+    "duration": 4.08
+  },
+  {
+    "text": "we could uh put together this",
+    "start": 2813.04,
+    "duration": 5.26
+  },
+  {
+    "text": "conversation absolutely anytime",
+    "start": 2814.56,
+    "duration": 17.68
+  },
+  {
+    "text": "[Music]",
+    "start": 2818.3,
+    "duration": 16.019
+  },
+  {
+    "text": "you",
+    "start": 2832.24,
+    "duration": 2.079
+  }
+]
